@@ -1,0 +1,49 @@
+{
+    "menu":{
+        "brand": "pilot construct",
+        "about": "à propos",
+        "contact": "contact",
+        "products": "produits",
+        "language": {
+            "language": "langue",
+            "en": "anglais",
+            "fr": "français",
+            "ar": "arabe"
+        }
+    },
+    "hero": {
+        "welcome": "Bienvenue à",
+        "title": "Pilot Construct",
+        "description": "Construisons l'avenir avec précision et innovation",
+        "button": "Découvrez nos produits et services"
+    },
+    "prodserv":{
+        "title": "Quels sont nos services et produits",
+        "prodserv1": {
+            "name": "A- Construction métallique",
+            "description": "Dao, Menuiserie metallique, Construction modulaire, Structure métallique, Charpente metallique"
+        },
+        "prodserv2": {
+            "name": "B- Construction mécanique",
+            "description": "Dao, Usinage, Tournage, Fraisage, Maintenance industrielle"
+        },
+        "prodserv3": {
+            "name": "C- Finition de surface",
+            "description": "Peinture, Galvanisation, Sablage, Polissage, Peinture four"
+        }
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "greeting": "Nous aimerions avoir de vos nouvelles!",
+        "info":{
+            "info": "Nos coordonnées",
+            "address": "Rue Hedi Chaker, Sakiet Ezzit, Sfax 3021",
+            "phone1": "tel: 21 262 771",
+            "phone2": "tel: 25 778 739",
+            "email1": "Mail: pilotconstract@gmail.com",
+            "email2": "Mail: nejiabderrahmen@gmail.com",
+            "bussinesshours": "Heures d'ouverture: Lun-Sam, 8h - 18h"
+        },
+        "follow": "Suivez-nous"
+    }
+}
