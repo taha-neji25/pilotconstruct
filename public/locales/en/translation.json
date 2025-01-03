@@ -1,0 +1,82 @@
+{
+    "menu": {
+        "brand": "Pilot Constract",
+        "about": "About",
+        "contact": "Contact",
+        "products": "Products",
+        "language": {
+            "language": "Language",
+            "en": "English",
+            "fr": "French",
+            "ar": "Arabic"
+        }
+    },
+    "hero": {
+        "welcome": "Welcome to",
+        "title": "Pilot Construct",
+        "description": "Building the future with precision and innovation",
+        "button": "Explore our products and services"
+    },
+    "prodserv": {
+        "title": "What are Our services and products",
+        "prodserv1": {
+            "name": "A- Metal construction",
+            "description": "Dao, Metalwork, Modular construction, Metal structure, Metal frame"
+        },
+        "prodserv2": {
+            "name": "B- Mechanical construction",
+            "description": "Dao, Machining, Turning, Milling, Industrial maintenance"
+        },
+        "prodserv3": {
+            "name": "C- Surface finishing",
+            "description": "Painting, Galvanizing, Sandblasting, Polishing, Oven painting"
+        }
+    },
+    "contact": {
+        "title": "Contact us",
+        "greeting": "We'd love to hear from you!",
+        "info": {
+            "info": "Our Contact Information",
+            "address": "Hedi Chaker Street, Sakiet Ezzit, Sfax 3021",
+            "phone1": "tel: 21 262 771",
+            "phone2": "tel: 25 778 739",
+            "email1": "Mail: pilotconstract@gmail.com",
+            "email2": "Mail: nejiabderrahmen@gmail.com",
+            "bussinesshours": "Business Hours: Mon-Sat, 8 AM - 6 PM"
+        },
+        "follow": "Follow us"
+    },
+    "about": {
+        "title":{
+            "title": "About Pilot Constract",
+            "overview": "Company Overview",
+            "mission": "Mission and Vision",
+            "history": "History",
+            "intro": "Team Introduction",
+            "values": "Core Values",
+            "strengths": "Specializations or Strengths",
+            "efforts": "Sustainability and CSR Efforts",
+            "action": "Call to Action",
+            "addition": "Engineering Services-Specific Additions"
+        },
+        "overview":"Pilot Construct delivers top-notch solutions construction metallique, construction Mecanique, and Traitement de surface. We focus on engineering services with a global reach.",
+        "missions":"Mission:",
+        "mission":"To provide innovative engineering solutions that ensure the highest quality and customer satisfaction.",
+        "visions":"Vision:",
+        "vision":"To be a global leader in engineering services, known for our commitment to excellence and innovation.",
+        "history":"Founded in 2025, Pilot Constract started with a vision to revolutionize the engineering industry.",
+        "name":"Name:",
+        "position":"Position:",
+        "thename1":"Neji Abderrahmen",
+        "thename2":"Dheker Neji",
+        "theposition1":"CEO",
+        "theposition2":"CTO",
+        "details1":"Mechanical engeneer, 5 years of expeirence, Manager.",
+        "details2":"Mechanical engeneer, 5 years of expeirence, Manager.",
+        "values":"Innovation, integrity, customer focus.",
+        "strengths":"Expertise in mechanical, Constraction  engineering. Unique technologies and methodologies.",
+        "efforts":"Highlighting our environmental and community initiatives.",
+        "action":"Explore our services, contact our team.",
+        "addition":"Showcase of flagship projects and engineering solutions. Our approach to solving technical challenges."
+    }
+}
