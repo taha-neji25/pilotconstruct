@@ -22,7 +22,9 @@ i18n
   .init({
     fallbackLng: 'en',
     debug: true,
-
+    backend: {
+      loadPath: '/pilotconstruct/locales/{{lng}}/{{ns}}.json', // Adjust '/repository-name/' to match your GitHub Pages subpath
+    },
     interpolation: {
       escapeValue: false, // not needed for react as it escapes by default
     }

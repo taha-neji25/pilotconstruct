@@ -19,7 +19,7 @@ const Header = () => {
     <Navbar collapseOnSelect expand="lg" className="custom-navbar">
       <Container>
         {/* Branding */}
-        <Navbar.Brand as={Link} to="/pilotconstruct" className="custom-brand">
+        <Navbar.Brand as={Link} to="/pilotconstruc" className="custom-brand">
           <img src={logo} alt="Neji Group Logo" className="logo bigger-logo" /> {t("menu.brand")}
         </Navbar.Brand>
 
