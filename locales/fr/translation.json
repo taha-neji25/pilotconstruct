@@ -45,5 +45,38 @@
             "bussinesshours": "Heures d'ouverture: Lun-Sam, 8h - 18h"
         },
         "follow": "Suivez-nous"
+    },
+    "about": {
+        "title": {
+            "title": "À propos de Pilot Construct",
+            "overview": "Aperçu de l'entreprise",
+            "mission": "Mission et vision",
+            "history": "Histoire",
+            "intro": "Présentation de l'équipe",
+            "values": "Valeurs fondamentales",
+            "strengths": "Spécialisations ou points forts",
+            "efforts": "Efforts de durabilité et de RSE",
+            "action": "Appel à l'action",
+            "addition": "Ajouts spécifiques aux services d'ingénierie"
+        },
+        "overview": "Pilot Construct offre des solutions de haute qualité en construction métallique, construction mécanique et finition de surface. Nous nous concentrons sur les services d'ingénierie avec une portée mondiale.",
+        "missions": "Mission :",
+        "mission": "Fournir des solutions d'ingénierie innovantes qui garantissent la plus haute qualité et la satisfaction du client.",
+        "visions": "Vision :",
+        "vision": "Être un leader mondial des services d'ingénierie, reconnu pour notre engagement envers l'excellence et l'innovation.",
+        "history": "Fondée en 2025, Pilot Construct a commencé avec une vision de révolutionner l'industrie de l'ingénierie.",
+        "name": "Nom :",
+        "position": "Position :",
+        "thename1": "Neji Abderrahmen",
+        "thename2": "Dheker Neji",
+        "theposition1": "PDG",
+        "theposition2": "CTO",
+        "details1": "Ingénieur mécanique, 5 ans d'expérience, Manager.",
+        "details2": "Ingénieur mécanique, 5 ans d'expérience, Manager.",
+        "values": "Innovation, intégrité, orientation client.",
+        "strengths": "Expertise en ingénierie mécanique et construction. Technologies et méthodologies uniques.",
+        "efforts": "Mise en avant de nos initiatives environnementales et communautaires.",
+        "action": "Découvrez nos services, contactez notre équipe.",
+        "addition": "Présentation des projets phares et des solutions d'ingénierie. Notre approche pour résoudre les défis techniques."
     }
 }
