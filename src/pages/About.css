@@ -17,6 +17,22 @@
   color: #ffffff;
 }
 
+.about.ltr {
+  text-align: left;
+}
+
+.about.rtl {
+  text-align: right;
+}
+
+.about.ltr p, .about.ltr h2, .about.ltr h3 {
+  text-align: left;
+}
+
+.about.rtl p, .about.rtl h2, .about.rtl h3 {
+  text-align: right;
+}
+
 .team-member {
   display: inline-block;
   margin: 20px;

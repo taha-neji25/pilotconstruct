@@ -6,6 +6,14 @@
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
 }
 
+.contact.ltr {
+  text-align: left;
+}
+
+.contact.rtl {
+  text-align: right;
+}
+
 .contact h2 {
   font-size: 2.5rem;
   color: #333;
@@ -16,6 +24,14 @@
   font-size: 1.2rem;
   margin-bottom: 20px;
   color: #666;
+}
+
+.contact.ltr p, .contact.ltr h2, .contact.ltr h3 {
+  text-align: left;
+}
+
+.contact.rtl p, .contact.rtl h2, .contact.rtl h3 {
+  text-align: right;
 }
 
 .contact-info {

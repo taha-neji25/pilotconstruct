@@ -4,9 +4,11 @@ import "./Contact.css";
 import { useTranslation } from "react-i18next";
 
 const Contact = () => {
-  const { t} = useTranslation();
+  const { t, i18n } = useTranslation();
+  const isRTL = i18n.language === "ar";
+
   return (
-    <div className="contact">
+    <div className={`contact ${isRTL ? "rtl" : "ltr"}`}>
       <h2>{t("contact.title")}</h2>
       <p>{t("contact.greeting")}</p>
       <div className="contact-info">
@@ -24,7 +26,6 @@ const Contact = () => {
         <a href="https://twitter.com/nejigroup" className="social-link">Twitter</a>
         <a href="https://instagram.com/nejigroup" className="social-link">Instagram</a>
       </div>
-      
     </div>
   );
 };

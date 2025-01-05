@@ -4,10 +4,11 @@ import { useTranslation } from "react-i18next";
 import "./About.css";
 
 const About = () => {  
-  const { t} = useTranslation();
+  const { t, i18n } = useTranslation();
+  const isRTL = i18n.language === "ar";
 
   return (
-    <div className="about">
+    <div className={`about ${isRTL ? "rtl" : "ltr"}`}>
       <h2>{t("about.title.title")}</h2>
       <section>
         <h3>{t("about.title.overview")}</h3>
@@ -18,7 +19,7 @@ const About = () => {
       <section>
         <h3>{t("about.title.mission")}</h3>
         <p><strong>{t("about.missions")}</strong> {t("about.mission")}</p>
-        <p><strong>{t("about.visions")}</strong>{t("about.visions")}</p>
+        <p><strong>{t("about.visions")}</strong>{t("about.vision")}</p>
       </section>
       <section>
         <h3>{t("about.title.history")}</h3>
@@ -27,13 +28,13 @@ const About = () => {
       <section>
         <h3>{t("about.title.intro")}</h3>
         <div className="team-member">
-          <img src="[path_to_image]" alt="Team Member Name" />
+                 {/*}   <img src="[path_to_image]" alt="Team Member Name" /> {*/}
           <p><strong>{t("about.name")}</strong>{t("about.thename1")}</p>
           <p><strong>{t("about.position")}</strong>{t("about.theposition1")}</p>
           <p>{t("about.details1")}</p>
         </div>
         <div className="team-member">
-          <img src="[path_to_image]" alt="Team Member Name" />
+       {/*}   <img src="[path_to_image]" alt="Team Member Name" /> {*/}
           <p><strong>{t("about.name")}</strong>{t("about.thename2")}</p>
           <p><strong>{t("about.position")}</strong>{t("about.theposition2")}</p>
           <p>{t("about.details2")}</p>
