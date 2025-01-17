@@ -26,22 +26,6 @@ const About = () => {
         <p>{t("about.history")}</p>
       </section>
       <section>
-        <h3>{t("about.title.intro")}</h3>
-        <div className="team-member">
-                 {/*}   <img src="[path_to_image]" alt="Team Member Name" /> {*/}
-          <p><strong>{t("about.name")}</strong>{t("about.thename1")}</p>
-          <p><strong>{t("about.position")}</strong>{t("about.theposition1")}</p>
-          <p>{t("about.details1")}</p>
-        </div>
-        <div className="team-member">
-       {/*}   <img src="[path_to_image]" alt="Team Member Name" /> {*/}
-          <p><strong>{t("about.name")}</strong>{t("about.thename2")}</p>
-          <p><strong>{t("about.position")}</strong>{t("about.theposition2")}</p>
-          <p>{t("about.details2")}</p>
-        </div>
-        {/* Add more team members as needed */}
-      </section>
-      <section>
         <h3>{t("about.title.values")}</h3>
         <p>{t("about.values")}</p>
       </section>

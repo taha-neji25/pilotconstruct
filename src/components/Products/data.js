@@ -206,21 +206,23 @@ const productsData = [
       title: "Traitement de peinture",
       category: "C",
       description: "Traitement de peinture de surfaces",
-      tagline: "Keeping your operations running smoothly.",
+      tagline: "Enhancing durability and aesthetics with precision paint treatments.",
       overview:
-        "Our industrial maintenance services ensure your equipment stays operational, minimizing downtime and maximizing efficiency.",
+        "Our Traitement de Peinture service specializes in applying high-quality paint finishes to metal and other surfaces. With advanced techniques and premium materials, we ensure long-lasting protection and visual appeal for industrial, commercial, and decorative applications.",
       features: [
-        { feature: "Proactive maintenance programs", benefit: "Avoid unexpected breakdowns and costly repairs." },
-        { feature: "24/7 emergency support", benefit: "Get help when you need it most." },
+        { feature: "High-Quality Paints and Coatings", benefit: "Enjoy superior durability and resistance to corrosion, weather, and wear." },
+        { feature: "Customizable Colors and Finishes", benefit: "Achieve the desired look with a variety of color options, textures, and finishes, including matte, gloss, and metallic." },
+        { feature: "Surface Preparation Expertise", benefit: "Benefit from thorough surface cleaning, priming, and treatment to ensure long-lasting adhesion." },
+        { feature: "Quick Turnaround Times", benefit: "Meet tight deadlines without compromising on quality." },
+        { feature: "Advanced Application Techniques", benefit: "Ensure even coverage and flawless finishes using precision tools and methods like spray painting and powder coating." },
       ],
       useCases:[
-        {useCase:"Office Buildings: Modular construction is ideal for creating temporary or permanent office spaces quickly and efficiently. Companies can scale their office size as their workforce grows."},
-        {useCase:"Schools and Classrooms: Modular classrooms offer a fast solution to accommodate growing student populations or temporary learning spaces during renovations."},
-        {useCase:"Retail Spaces: Create modular pop-up shops, kiosks, or standalone retail units for flexible and cost-effective business solutions."},
-        {useCase:"Event Structures: Use modular units for event spaces, exhibition booths, or temporary pavilions, offering a high-quality and reusable solution."},
+        {useCase:"Construction Projects: Paint metal structures, railings, and panels to match architectural designs and provide weather resistance."},
+        {useCase:"Public Infrastructure: Paint street signs, guardrails, and public structures to increase visibility and durability."},
+        {useCase:"Marine Applications: Apply anti-corrosion and weather-resistant coatings to ships, docks, and marine equipment."},
     ],
       faq: [
-        { question: "Do you offer onsite support?", answer: "Yes, our technicians can visit your facility." },
+        { question: "Do you provide surface preparation before painting?", answer: "Absolutely. We ensure thorough surface cleaning, priming, and treatment for optimal paint adhesion and longevity." },
       ],
       img: "https://via.placeholder.com/150",    },
     ];

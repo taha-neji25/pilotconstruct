@@ -32,6 +32,20 @@
             "description": "Peinture, Galvanisation, Sablage, Polissage, Peinture four"
         }
     },
+    "products": {
+        "dao": {
+            "title": "Dessin assisté par ordinateur (DAO)",
+            "tagline": "Solutions de précision pour vos besoins industriels.",
+            "overview": "DAO (Design and Drafting) est une suite d'outils logiciels puissants comme Tekla, SolidWorks et AutoCAD conçus pour créer des modèles 2D et 3D précis et détaillés pour les projets d'ingénierie, de construction et de fabrication. Ces outils aident à rationaliser les flux de travail de conception, à améliorer la précision et à renforcer la collaboration entre les équipes.",
+            "features": [
+                { "feature": "Délais d'exécution rapides", "benefit": "Respectez des délais serrés sans sacrifier la qualité." },
+                { "feature": "Capacités de conception 2D et 3D", "benefit": "Permet des dessins détaillés et des modélisations 3D complexes pour des conceptions précises et professionnelles." },
+                { "feature": "Modélisation paramétrique (SolidWorks)", "benefit": "Créez et mettez à jour facilement des conceptions en ajustant les paramètres, économisant du temps sur les modifications itératives." },
+                { "feature": "Modélisation et analyse structurelles (Tekla)", "benefit": "Rationalise la conception et la fabrication des composants structurels, garantissant que les conceptions répondent aux normes de sécurité et de performance." },
+                { "feature": "Compatibilité DWG (AutoCAD)", "benefit": "Partagez et collaborez facilement sur des conceptions avec d'autres professionnels en utilisant des fichiers DWG standard de l'industrie." }
+            ]
+        }
+    },
     "contact": {
         "title": "Contactez-nous",
         "greeting": "Nous aimerions avoir de vos nouvelles!",
@@ -65,14 +79,6 @@
         "visions": "Vision :",
         "vision": "Être un leader mondial des services d'ingénierie, reconnu pour notre engagement envers l'excellence et l'innovation.",
         "history": "Fondée en 2025, Pilot Construct a commencé avec une vision de révolutionner l'industrie de l'ingénierie.",
-        "name": "Nom :",
-        "position": "Position :",
-        "thename1": "Neji Abderrahmen",
-        "thename2": "Dheker Neji",
-        "theposition1": "PDG",
-        "theposition2": "CTO",
-        "details1": "Ingénieur mécanique, 5 ans d'expérience, Manager.",
-        "details2": "Ingénieur mécanique, 5 ans d'expérience, Manager.",
         "values": "Innovation, intégrité, orientation client.",
         "strengths": "Expertise en ingénierie mécanique et construction. Technologies et méthodologies uniques.",
         "efforts": "Mise en avant de nos initiatives environnementales et communautaires.",

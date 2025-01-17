@@ -31,3 +31,34 @@
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 
   }
+
+.description {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+.information {
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: #666;
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #999;
+}
+
+.filter-dropdown {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.filter-dropdown select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  color: #333;
+}

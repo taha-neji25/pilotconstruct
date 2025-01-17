@@ -22,7 +22,14 @@ const Products = () => {
   return (
     <div className="products">
       <h2>Our Products</h2>
-      <div className="filter-dropdown">
+      <div className="description">
+        <p>Welcome to our product page. Here you can find a variety of items categorized for your convenience. Use the filter to narrow down your search.</p>
+      </div>
+      <div className="information">
+        <p>For more information about our products, please contact our support team.</p>
+        <p>Our products are sourced from the best suppliers and are guaranteed to meet your expectations. We offer a wide range of categories to choose from.</p>
+      </div>
+      <div className="filter-dropdown" style={{ textAlign: "right" }}>
         <select value={filter} onChange={(e) => setFilter(e.target.value)}>
           <option value="all">All</option>
           <option value="A">Products A</option>
@@ -41,6 +48,9 @@ const Products = () => {
             </Link>
           </div>
         ))}
+      </div>
+      <div className="footer">
+        <p>Thank you for visiting our product page. We hope you find what you are looking for!</p>
       </div>
     </div>
   );
