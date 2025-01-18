@@ -3,8 +3,10 @@ import React from "react";
 import { useParams, Link } from "react-router-dom";
 import products from "./data"; // Import the products array
 import "./ProductDetail.css";
+import { useTranslation } from "react-i18next";
 
 const ProductDetail = () => {
+  const { t } = useTranslation();
   const { productName } = useParams(); // Get the product name from the URL
   const product = products.find(
     (p) => p.name.toLowerCase().replace(/ /g, "-") === productName
@@ -22,20 +24,20 @@ const ProductDetail = () => {
   return (
     <div className="product-page">
       <section className="hero" style={{ backgroundImage: `url(${product.img})` }}>
-        <h1>{product.title}</h1>
-        <p>{product.tagline}</p>
+        <h1>{t(product.title)}</h1>
         <Link to="/contact" className="cta-btn">Contact Us</Link>
+        <p>{t(product.tagline)}</p>
       </section>
       <div className="details">
       <section className="overview">
-        <p>{product.overview}</p>
+        <p>{t(product.overview)}</p>
       </section>
       <section className="features">
         <h3>Features and Benefits</h3>
         <ul>
           {product.features.map((item, index) => (
             <li key={index}>
-              <strong>{item.feature}:</strong> <p>{item.benefit}</p>
+              <strong>{t(item.feature)}:</strong> <p>{t(item.benefit)}</p>
             </li>
           ))}
         </ul>
@@ -44,7 +46,7 @@ const ProductDetail = () => {
         <h3>Use Cases</h3>
         <ul>
           {product.useCases.map((item, index) => (
-            <li key={index}><p>{item.useCase}</p></li>
+            <li key={index}><p>{t(item.useCase)}</p></li>
           ))}
         </ul>
       </section>
@@ -52,8 +54,8 @@ const ProductDetail = () => {
         <h3>Frequently Asked Questions</h3>
         {product.faq.map((item, index) => (
           <div key={index}>
-            <strong>Q: {item.question}</strong>
-            <p>A: {item.answer}</p>
+            <strong>Q: {t(item.question)}</strong>
+            <p>A: {t(item.answer)}</p>
           </div>
         ))}
       </section>

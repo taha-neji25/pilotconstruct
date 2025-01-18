@@ -47,7 +47,7 @@
         "follow": "Follow us"
     },
     "about": {
-        "title":{
+        "title": {
             "title": "About Pilot Constract",
             "overview": "Company Overview",
             "mission": "Mission and Vision",
@@ -59,16 +59,299 @@
             "action": "Call to Action",
             "addition": "Engineering Services-Specific Additions"
         },
-        "overview":"Pilot Construct delivers top-notch solutions construction metallique, construction Mecanique, and Traitement de surface. We focus on engineering services with a global reach.",
-        "missions":"Mission:",
-        "mission":"To provide innovative engineering solutions that ensure the highest quality and customer satisfaction.",
-        "visions":"Vision:",
-        "vision":"To be a global leader in engineering services, known for our commitment to excellence and innovation.",
-        "history":"Founded in 2025, Pilot Constract started with a vision to revolutionize the engineering industry.",
-        "values":"Innovation, integrity, customer focus.",
-        "strengths":"Expertise in mechanical, Constraction  engineering. Unique technologies and methodologies.",
-        "efforts":"Highlighting our environmental and community initiatives.",
-        "action":"Explore our services, contact our team.",
-        "addition":"Showcase of flagship projects and engineering solutions. Our approach to solving technical challenges."
+        "overview": "Pilot Construct delivers top-notch solutions construction metallique, construction Mecanique, and Traitement de surface. We focus on engineering services with a global reach.",
+        "missions": "Mission:",
+        "mission": "To provide innovative engineering solutions that ensure the highest quality and customer satisfaction.",
+        "visions": "Vision:",
+        "vision": "To be a global leader in engineering services, known for our commitment to excellence and innovation.",
+        "history": "Founded in 2025, Pilot Constract started with a vision to revolutionize the engineering industry.",
+        "values": "Innovation, integrity, customer focus.",
+        "strengths": "Expertise in mechanical, Constraction  engineering. Unique technologies and methodologies.",
+        "efforts": "Highlighting our environmental and community initiatives.",
+        "action": "Explore our services, contact our team.",
+        "addition": "Showcase of flagship projects and engineering solutions. Our approach to solving technical challenges."
+    },
+    "products": {
+        "product1": {
+            "title": "Computer-Aided Design (CAD)",
+            "description": "Computer-aided design and drafting",
+            "tagline": "Precision-built solutions for your industrial needs.",
+            "overview": "CAD (Design and Drafting) is a suite of powerful software tools like Tekla, SolidWorks, and AutoCAD designed for creating precise, detailed 2D and 3D models for engineering, construction, and manufacturing projects. These tools help streamline design workflows, improve accuracy, and enhance collaboration across teams.",
+            "features": {
+                "feature1": "Quick Turnaround Times",
+                "feature2": "2D and 3D Design Capabilities",
+                "feature3": "Parametric Modeling (SolidWorks)",
+                "feature4": "Structural Modeling and Analysis (Tekla)",
+                "feature5": "DWG Compatibility (AutoCAD)"
+            },
+            "benefits": {
+                "benefit1": "Meet tight deadlines without sacrificing quality.",
+                "benefit2": "Enables detailed drafting and complex 3D modeling for precise and professional designs.",
+                "benefit3": "Easily create and update designs by adjusting parameters, saving time on iterative changes.",
+                "benefit4": "Streamlines the design and fabrication of structural components, ensuring designs meet safety and performance standards.",
+                "benefit5": "Seamlessly share and collaborate on designs with other professionals using industry-standard file formats."
+            },
+            "usecases": {
+                "usecase1": "Structural Engineering (Tekla): Create detailed 3D models for structural steel, concrete, and timber components used in buildings, bridges, and industrial structures.",
+                "usecase2": "Mechanical Design (SolidWorks): Design intricate mechanical parts and assemblies for machinery, robotics, automotive components, and consumer products.",
+                "usecase3": "Architectural Drafting (AutoCAD): Produce high-quality 2D blueprints and 3D architectural visualizations for residential, commercial, and industrial buildings."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "How long does it take to complete a project?"
+                },
+                "answers": {
+                    "answer1": "Most projects are completed within 2-4 weeks, depending on complexity."
+                }
+            }
+        },
+        "product2": {
+            "title": "Modular Construction",
+            "description": "Prefab building construction",
+            "tagline": "High-precision parts for every industry.",
+            "overview": "Our modular construction services streamline the building process, reducing waste and delivering structures in record time.",
+            "features": {
+                "feature1": "Rapid Prototyping",
+                "feature2": "Cost-effective Process",
+                "feature3": "Off-site Construction",
+                "feature4": "Scalable Solutions",
+                "feature5": "Weather-resistant Construction"
+            },
+            "benefits": {
+                "benefit1": "Get your designs into production quickly and efficiently.",
+                "benefit2": "Lower labor costs and reduced material waste make modular construction a more affordable solution compared to traditional methods.",
+                "benefit3": "Reduces disruption at the site, ensuring faster project delivery while maintaining safety and cleanliness.",
+                "benefit4": "Easily add or modify modules to accommodate changing needs, providing long-term flexibility.",
+                "benefit5": "Ensures durability and minimizes delays caused by adverse weather conditions during the building process."
+            },
+            "usecases": {
+                "usecase1": "Office Buildings: Modular construction is ideal for creating temporary or permanent office spaces quickly and efficiently. Companies can scale their office size as their workforce grows.",
+                "usecase2": "Schools and Classrooms: Modular classrooms offer a fast solution to accommodate growing student populations or temporary learning spaces during renovations.",
+                "usecase3": "Retail Spaces: Create modular pop-up shops, kiosks, or standalone retail units for flexible and cost-effective business solutions.",
+                "usecase4": "Event Structures: Use modular units for event spaces, exhibition booths, or temporary pavilions, offering a high-quality and reusable solution."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Are modular buildings customizable?",
+                    "question2": "What materials do you work with?"
+                },
+                "answers": {
+                    "answer1": "Yes, we tailor designs to fit your needs.",
+                    "answer2": "We work with metals, plastics, composites, and more."
+                }
+            }
+        },
+        "product3": {
+            "title": "Metal Structures",
+            "description": "Fabrication of metal structures",
+            "tagline": "Keeping your operations running smoothly.",
+            "overview": "Our industrial maintenance services ensure your equipment stays operational, minimizing downtime and maximizing efficiency.",
+            "features": {
+                "feature1": "Proactive Maintenance Programs",
+                "feature2": "24/7 Emergency Support"
+            },
+            "benefits": {
+                "benefit1": "Avoid unexpected breakdowns and costly repairs.",
+                "benefit2": "Get help when you need it most."
+            },
+            "usecases": {
+                "usecase1": "Office Buildings: Modular construction is ideal for creating temporary or permanent office spaces quickly and efficiently. Companies can scale their office size as their workforce grows.",
+                "usecase2": "Schools and Classrooms: Modular classrooms offer a fast solution to accommodate growing student populations or temporary learning spaces during renovations.",
+                "usecase3": "Retail Spaces: Create modular pop-up shops, kiosks, or standalone retail units for flexible and cost-effective business solutions.",
+                "usecase4": "Event Structures: Use modular units for event spaces, exhibition booths, or temporary pavilions, offering a high-quality and reusable solution."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Do you offer onsite support?"
+                },
+                "answers": {
+                    "answer1": "Yes, our technicians can visit your facility."
+                }
+            }
+        },
+        "product4": {
+            "title": "Maintenance",
+            "description": "Building and structure maintenance",
+            "tagline": "Ensuring longevity and safety for your buildings and structures.",
+            "overview": "Our Building and Structure Maintenance service provides proactive and reactive solutions to preserve the integrity, functionality, and safety of your infrastructure. Designed for industrial, commercial, and residential properties, our maintenance programs minimize downtime, reduce costs, and extend the lifespan of your assets.",
+            "features": {
+                "feature1": "Proactive Maintenance Programs",
+                "feature2": "On-site Inspections",
+                "feature3": "Emergency Repair Services",
+                "feature4": "Structural Reinforcement and Upgrades"
+            },
+            "benefits": {
+                "benefit1": "Prevent unexpected breakdowns and costly repairs by addressing potential issues before they escalate.",
+                "benefit2": "Identify structural weaknesses and safety hazards with detailed assessments tailored to your specific property needs.",
+                "benefit3": "24/7 support ensures critical issues are resolved quickly, minimizing disruption to your operations.",
+                "benefit4": "Enhance the durability and performance of your building to meet modern safety and efficiency standards."
+            },
+            "usecases": {
+                "usecase1": "Industrial Facilities: Regular maintenance ensures manufacturing plants, warehouses, and utilities run smoothly without interruptions.",
+                "usecase2": "Commercial Buildings: Preserve the appearance and functionality of office complexes, retail spaces, and hospitality venues with reliable upkeep.",
+                "usecase3": "Educational Institutions: Keep schools, universities, and training centers in top condition for students and staff.",
+                "usecase4": "Utility Infrastructure: Maintain critical systems like water tanks to ensure continuous operation and compliance with regulations."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "How often should buildings undergo maintenance checks?",
+                    "question2": "What industries do you serve with your maintenance services?"
+                },
+                "answers": {
+                    "answer1": "It depends on the building's use and condition. Generally, annual inspections are recommended for residential and commercial properties, while industrial facilities may require more frequent checks.",
+                    "answer2": "We serve a wide range of industries, including manufacturing, education, hospitality, retail, healthcare, and more."
+                }
+            }
+        },
+        "product5": {
+            "title": "Metal Carpentry and Ironwork",
+            "description": "Manufacturing of doors, windows, grilles, gates, and more.",
+            "tagline": "Crafting durable and aesthetic metalworks tailored to your needs.",
+            "overview": "Our Metal Carpentry and Ironwork service specializes in designing, manufacturing, and installing custom metalworks, including doors, windows, grilles, railings, gates, and decorative elements. Combining durability, functionality, and aesthetic appeal, we deliver metal solutions that enhance both residential and commercial spaces.",
+            "features": {
+                "feature1": "Custom Metal Fabrication",
+                "feature2": "High-Quality Materials",
+                "feature3": "Modern and Traditional Designs",
+                "feature4": "Precision Craftsmanship",
+                "feature5": "Wide Range of Products"
+            },
+            "benefits": {
+                "benefit1": "Get tailored designs that fit your exact specifications for both functional and decorative purposes.",
+                "benefit2": "Enjoy long-lasting, corrosion-resistant metalworks that can withstand harsh weather conditions.",
+                "benefit3": "Choose from a variety of styles to suit your architectural preferences, whether classic or contemporary.",
+                "benefit4": "Ensure flawless finishes and exact measurements for seamless integration with your property.",
+                "benefit5": "Access a comprehensive selection of metalworks, including fences, stair railings, and decorative panels."
+            },
+            "usecases": {
+                "usecase1": "Residential Spaces: Install custom gates, doors, and window grilles to enhance security and elevate the aesthetic of homes.",
+                "usecase2": "Commercial Properties: Provide durable and stylish railings, staircases, and entryways for offices, hotels, and retail stores.",
+                "usecase3": "Public Infrastructure: Create strong and visually appealing fencing, handrails, and partitions for public spaces like parks and government buildings.",
+                "usecase4": "Decorative Applications: Add artistic metalwork to gardens, patios, or interiors to give spaces a unique, sophisticated look."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Can you replicate existing designs for renovations?",
+                    "question2": "Do you offer both standard and custom designs?"
+                },
+                "answers": {
+                    "answer1": "Yes, we can recreate or restore metalworks to match existing designs for renovations or historical restorations.",
+                    "answer2": "Absolutely. We provide a catalog of standard designs and also offer fully customized solutions based on your specifications."
+                }
+            }
+        },
+        "product6": {
+            "title": "Series Construction and Fabrication",
+            "description": "Series construction and manufacturing",
+            "tagline": "High-volume manufacturing with precision and efficiency.",
+            "overview": "Our Series Construction and Fabrication service offers scalable and efficient solutions for producing standardized components and structures in large quantities. With a focus on quality, we meet the demands of industries requiring repeatable, consistent, and cost-effective fabrication processes.",
+            "features": {
+                "feature1": "High-Volume Production",
+                "feature2": "Cost-Effective Solutions",
+                "feature3": "Material Versatility"
+            },
+            "benefits": {
+                "benefit1": "Manufacture large quantities of components quickly to meet tight deadlines and large-scale project requirements.",
+                "benefit2": "Benefit from economies of scale to reduce overall production costs without sacrificing quality.",
+                "benefit3": "Work with a wide range of materials, including steel, aluminum, and composite materials, for diverse applications."
+            },
+            "usecases": {
+                "usecase1": "Industrial Manufacturing: Mass-produce parts and components for machinery, tools, and equipment with consistent quality.",
+                "usecase2": "Construction Projects: Create prefabricated building components like beams, panels, and frames for large-scale developments."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Can I request customizations for large-scale orders?"
+                },
+                "answers": {
+                    "answer1": "Absolutely. While we specialize in standardized production, we can adapt designs to meet specific project requirements."
+                }
+            }
+        },
+        "product7": {
+            "title": "Surface Cleaning and Stripping",
+            "description": "Surface stripping and cleaning services",
+            "tagline": "Keeping your operations running smoothly.",
+            "overview": "Our industrial maintenance services ensure that your equipment stays operational, minimizing downtime and maximizing efficiency.",
+            "features": {
+                "feature1": "Proactive maintenance programs",
+                "feature2": "24/7 emergency support"
+            },
+            "benefits": {
+                "benefit1": "Avoid unexpected breakdowns and costly repairs.",
+                "benefit2": "Get help when you need it most."
+            },
+            "usecases": {
+                "usecase1": "Office Buildings: Modular construction is ideal for creating temporary or permanent office spaces quickly and efficiently. Companies can scale their office size as their workforce grows.",
+                "usecase2": "Schools and Classrooms: Modular classrooms offer a fast solution to accommodate growing student populations or temporary learning spaces during renovations.",
+                "usecase3": "Retail Spaces: Create modular pop-up shops, kiosks, or standalone retail units for flexible and cost-effective business solutions.",
+                "usecase4": "Event Structures: Use modular units for event spaces, exhibition booths, or temporary pavilions, offering a high-quality and reusable solution."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Do you offer onsite support?"
+                },
+                "answers": {
+                    "answer1": "Yes, our technicians can visit your facility."
+                }
+            }
+        },
+        "product8": {
+            "title": "Chemical Treatment",
+            "description": "Chemical treatment of surfaces",
+            "tagline": "Enhancing surface durability and performance through advanced chemical treatments.",
+            "overview": "Our Chemical Treatment service offers professional chemical treatments designed to improve the strength, durability, and aesthetics of surfaces. From corrosion resistance to enhanced paint adhesion, we provide tailored solutions to meet your industrial, commercial, and architectural needs.",
+            "features": {
+                "feature1": "Anti-Corrosion Treatment",
+                "feature2": "Improved Paint Adhesion"
+            },
+            "benefits": {
+                "benefit1": "Protect metal surfaces from rust and corrosion, extending the lifespan of your materials.",
+                "benefit2": "Ensure paints and coatings bond effectively to surfaces for long-lasting results."
+            },
+            "usecases": {
+                "usecase1": "Industrial Machinery: Protect machine parts from wear and tear with anti-corrosion and surface-hardening treatments."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Do you offer onsite support?"
+                },
+                "answers": {
+                    "answer1": "Yes, our technicians can visit your facility."
+                }
+            }
+        },
+        "product9": {
+            "title": "Paint Treatment",
+            "description": "Surface paint treatment",
+            "tagline": "Enhancing durability and aesthetics with precision paint treatments.",
+            "overview": "Our Paint Treatment service specializes in applying high-quality paint finishes to metal and other surfaces. With advanced techniques and premium materials, we ensure long-lasting protection and visual appeal for industrial, commercial, and decorative applications.",
+            "features": {
+                "feature1": "High-Quality Paints and Coatings",
+                "feature2": "Customizable Colors and Finishes",
+                "feature3": "Surface Preparation Expertise",
+                "feature4": "Quick Turnaround Times",
+                "feature5": "Advanced Application Techniques"
+            },
+            "benefits": {
+                "benefit1": "Enjoy superior durability and resistance to corrosion, weather, and wear.",
+                "benefit2": "Achieve the desired look with a variety of color options, textures, and finishes, including matte, gloss, and metallic.",
+                "benefit3": "Benefit from thorough surface cleaning, priming, and treatment to ensure long-lasting adhesion.",
+                "benefit4": "Meet tight deadlines without compromising on quality.",
+                "benefit5": "Ensure even coverage and flawless finishes using precision tools and methods like spray painting and powder coating."
+            },
+            "usecases": {
+                "usecase1": "Construction Projects: Paint metal structures, railings, and panels to match architectural designs and provide weather resistance.",
+                "usecase2": "Public Infrastructure: Paint street signs, guardrails, and public structures to increase visibility and durability.",
+                "usecase3": "Marine Applications: Apply anti-corrosion and weather-resistant coatings to ships, docks, and marine equipment."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Do you provide surface preparation before painting?"
+                },
+                "answers": {
+                    "answer1": "Absolutely. We ensure thorough surface cleaning, priming, and treatment for optimal paint adhesion and longevity."
+                }
+            }
+        }
     }
 }

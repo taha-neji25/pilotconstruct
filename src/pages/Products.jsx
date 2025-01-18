@@ -3,8 +3,10 @@ import React, { useState, useEffect } from "react";
 import { useLocation, Link } from "react-router-dom";
 import "./Products.css";
 import products from "../components/Products/data";
+import { useTranslation } from "react-i18next";
 
 const Products = () => {
+  const { t } = useTranslation();
   const location = useLocation();
   const queryParams = new URLSearchParams(location.search);
   const initialFilter = queryParams.get("category") || "all";
@@ -42,8 +44,8 @@ const Products = () => {
           <div key={index} className="product-card">
             <Link to={`/products/${product.name.toLowerCase().replace(/ /g, "-")}`}>
               <img src={product.img} alt={product.title} className="product-image" />
-              <h3>{product.title}</h3>
-              <p>{product.description}</p>
+              <h3>{t(product.title)}</h3>
+              <p>{t(product.description)}</p>
               <p>Category: {product.category}</p>
             </Link>
           </div>
