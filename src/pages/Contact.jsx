@@ -10,9 +10,9 @@ const Contact = () => {
   return (
     <div className={`contact ${isRTL ? "rtl" : "ltr"}`}>
       <h2>{t("contact.title")}</h2>
-      <p>{t("contact.greeting")}</p>
+      <p className="follow">{t("contact.greeting")}</p>
       <div className="contact-info">
-        <h3>{t("contact.info.info")}</h3>
+        <div className="follow"><h3>{t("contact.info.info")}</h3></div>
         <a href="mailto:pilotconstract@gmail.com" className="contact-link">{t("contact.info.email1")}</a>
         <a href="nejiabderrahmen@gmail.com" className="contact-link">{t("contact.info.email2")}</a>
         <a href="tel:21 262 771" className="contact-link">{t("contact.info.phone1")}</a>
@@ -21,7 +21,8 @@ const Contact = () => {
         <p>{t("contact.info.bussinesshours")}</p>
       </div>
       <div className="social-media">
-        <h3>{t("contact.follow")}</h3>
+        <div className="follow">
+        <h3>{t("contact.follow")}</h3></div>
         <a href="https://www.linkedin.com/company/nejigroup" className="social-link">LinkedIn</a>
         <a href="https://twitter.com/nejigroup" className="social-link">Twitter</a>
         <a href="https://instagram.com/nejigroup" className="social-link">Instagram</a>

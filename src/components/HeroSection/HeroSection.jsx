@@ -5,9 +5,7 @@ import "./HeroSection.css";
 import { useTranslation } from "react-i18next";
 
 const HeroSection = () => {
-  
-  const { t} = useTranslation();
-
+  const { t } = useTranslation();
 
   return (
     <section className="hero">

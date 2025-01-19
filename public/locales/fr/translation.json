@@ -71,6 +71,32 @@
         "action": "Découvrez nos services, contactez notre équipe.",
         "addition": "Présentation des projets phares et des solutions d'ingénierie. Notre approche pour résoudre les défis techniques."
     },
+    "productmenu": {
+        "products": {
+            "title": "Nos Produits",
+            "welcome": "Bienvenue sur notre page de produits. Ici, vous pouvez trouver une variété d'articles classés pour votre commodité. Utilisez le filtre pour affiner votre recherche.",
+            "more": "Pour plus d'informations sur nos produits, veuillez contacter notre équipe de support.",
+            "more2": "Nos produits sont sourcés auprès des meilleurs fournisseurs et sont garantis de répondre à vos attentes. Nous offrons un large éventail de catégories parmi lesquelles choisir.",
+            "filter": {
+                "all": "Tous",
+                "productsA": "Produits A",
+                "productsB": "Produits B",
+                "productsC": "Produits C"
+            },
+            "category": "Catégorie :",
+            "foot": "Merci d'avoir visité notre page de produits. Nous espérons que vous trouverez ce que vous cherchez !"
+        },
+        "product": {
+            "contact": "Contactez-nous",
+            "feature": "Caractéristiques et avantages",
+            "use": "Cas d'utilisation",
+            "frequent": "Foire aux questions",
+            "question": "Q :",
+            "answer": "R :",
+            "info": "Informations de contact",
+            "contactus": "Contactez-nous à info@example.com"
+        }
+    },
     "products": {
         "product1": {
             "title": "Dessin assisté par ordinateur (DAO)",
@@ -268,59 +294,6 @@
             }
         },
         "product7": {
-            "title": "Décapage et nettoyage de surfaces",
-            "description": "Services de décapage et de nettoyage de surfaces",
-            "tagline": "Maintenir vos opérations en bon fonctionnement.",
-            "overview": "Nos services de maintenance industrielle garantissent que votre équipement reste opérationnel, minimisant les temps d'arrêt et maximisant l'efficacité.",
-            "features": {
-                "feature1": "Programmes de maintenance proactive",
-                "feature2": "Assistance d'urgence 24/7"
-            },
-            "benefits": {
-                "benefit1": "Évitez les pannes inattendues et les réparations coûteuses.",
-                "benefit2": "Obtenez de l'aide quand vous en avez le plus besoin."
-            },
-            "usecases": {
-                "usecase1": "Bâtiments de bureaux : La construction modulaire est idéale pour créer des espaces de bureau temporaires ou permanents rapidement et efficacement. Les entreprises peuvent adapter la taille de leur bureau à mesure que leur personnel croît.",
-                "usecase2": "Écoles et salles de classe : Les salles de classe modulaires offrent une solution rapide pour accueillir des populations d'élèves croissantes ou des espaces d'apprentissage temporaires pendant les rénovations.",
-                "usecase3": "Espaces commerciaux : Créez des magasins temporaires, des kiosques ou des unités de vente au détail autonomes pour des solutions commerciales flexibles et rentables.",
-                "usecase4": "Structures pour événements : Utilisez des unités modulaires pour des espaces événementiels, des stands d'exposition ou des pavillons temporaires, offrant une solution de haute qualité et réutilisable."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Offrez-vous un support sur site ?"
-                },
-                "answers": {
-                    "answer1": "Oui, nos techniciens peuvent visiter votre installation."
-                }
-            }
-        },
-        "product8": {
-            "title": "Traitement Chimique",
-            "description": "Traitement chimique des surfaces",
-            "tagline": "Améliorer la durabilité et les performances des surfaces grâce à des traitements chimiques avancés.",
-            "overview": "Notre service de Traitement Chimique propose des traitements chimiques professionnels conçus pour améliorer la résistance, la durabilité et l'esthétique des surfaces. De la résistance à la corrosion à l'adhérence améliorée des peintures, nous offrons des solutions sur mesure pour répondre à vos besoins industriels, commerciaux et architecturaux.",
-            "features": {
-                "feature1": "Traitement anti-corrosion",
-                "feature2": "Amélioration de l'adhérence des peintures"
-            },
-            "benefits": {
-                "benefit1": "Protégez les surfaces métalliques contre la rouille et la corrosion, prolongeant la durée de vie de vos matériaux.",
-                "benefit2": "Assurez-vous que les peintures et les revêtements adhèrent efficacement aux surfaces pour des résultats durables."
-            },
-            "usecases": {
-                "usecase1": "Machines industrielles : Protégez les pièces de machines contre l'usure avec des traitements anti-corrosion et de durcissement de surface."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Proposez-vous un support sur site ?"
-                },
-                "answers": {
-                    "answer1": "Oui, nos techniciens peuvent visiter vos installations."
-                }
-            }
-        },
-        "product9": {
             "title": "Traitement de Peinture",
             "description": "Traitement de peinture des surfaces",
             "tagline": "Améliorer la durabilité et l'esthétique avec des traitements de peinture de précision.",

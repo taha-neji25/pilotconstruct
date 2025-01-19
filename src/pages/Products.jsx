@@ -23,20 +23,20 @@ const Products = () => {
 
   return (
     <div className="products">
-      <h2>Our Products</h2>
+      <div className="title"><h1>{t("productmenu.products.title")}</h1></div>
       <div className="description">
-        <p>Welcome to our product page. Here you can find a variety of items categorized for your convenience. Use the filter to narrow down your search.</p>
+        <p>{t("productmenu.products.welcome")}</p>
       </div>
       <div className="information">
-        <p>For more information about our products, please contact our support team.</p>
-        <p>Our products are sourced from the best suppliers and are guaranteed to meet your expectations. We offer a wide range of categories to choose from.</p>
+        <p>{t("productmenu.products.more")}</p>
+        <p>{t("productmenu.products.more2")}</p>
       </div>
       <div className="filter-dropdown" style={{ textAlign: "right" }}>
         <select value={filter} onChange={(e) => setFilter(e.target.value)}>
-          <option value="all">All</option>
-          <option value="A">Products A</option>
-          <option value="B">Products B</option>
-          <option value="C">Products C</option>
+          <option value="all">{t("productmenu.products.filter.all")}</option>
+          <option value="A">{t("productmenu.products.filter.productsA")}</option>
+          <option value="B">{t("productmenu.products.filter.productsB")}</option>
+          <option value="C">{t("productmenu.products.filter.productsC")}</option>
         </select>
       </div>
       <div className="product-grid">
@@ -46,13 +46,13 @@ const Products = () => {
               <img src={product.img} alt={product.title} className="product-image" />
               <h3>{t(product.title)}</h3>
               <p>{t(product.description)}</p>
-              <p>Category: {product.category}</p>
+              <p>{t("productmenu.products.category")} {product.category}</p>
             </Link>
           </div>
         ))}
       </div>
-      <div className="footer">
-        <p>Thank you for visiting our product page. We hope you find what you are looking for!</p>
+      <div className="description">
+        <p>{t("productmenu.products.foot")}</p>
       </div>
     </div>
   );

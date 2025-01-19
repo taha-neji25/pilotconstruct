@@ -1,3 +1,11 @@
+import daoImage from '../../../assets/dao.jpg';
+import modulaireImage from '../../../assets/modulaire.jpg';
+import metalImage from '../../../assets/metal.jpg';
+import maintenanceImage from '../../../assets/maintenance.jpg';
+import serieImage from '../../../assets/serie.jpg';
+import menuiserieImage from '../../../assets/menuiserie.jpg';
+import paintImage from '../../../assets/paint.jpg';
+
 const products = [
   {
     id: 1,
@@ -20,18 +28,18 @@ const products = [
       { useCase: "products.product1.usecases.usecase3" },
     ],
     faq: [
-      { question: "products.product1.faq.questions.questoin1", answer: "products.product1.faq.answers.answer1" },
+      { question: "products.product1.faq.questions.question1", answer: "products.product1.faq.answers.answer1" },
     ],
-    img: "https://via.placeholder.com/150"
+    img: daoImage
   },
   {
     id: 2,
     category: "A",
     name: "Construction Modulaire",
-    title: "products.product1.title",
-    description: "products.product1.description",
-    tagline: "products.product1.tagline",
-    overview: "products.product1.overview",
+    title: "products.product2.title",
+    description: "products.product2.description",
+    tagline: "products.product2.tagline",
+    overview: "products.product2.overview",
     features: [
       { feature: "products.product2.features.feature1", benefit: "products.product2.benefits.benefit1" },
       { feature: "products.product2.features.feature2", benefit: "products.product2.benefits.benefit2" },
@@ -46,10 +54,10 @@ const products = [
       { useCase: "products.product2.usecases.usecase4" },
     ],
     faq: [
-      { question: "products.product2.faq.questions.questoin1", answer: "products.product2.faq.answers.answer1" },
-      { question: "products.product2.faq.questions.questoin2", answer: "products.product2.faq.answers.answer2" },
+      { question: "products.product2.faq.questions.question1", answer: "products.product2.faq.answers.answer1" },
+      { question: "products.product2.faq.questions.question2", answer: "products.product2.faq.answers.answer2" },
     ],
-    img: "https://via.placeholder.com/150",
+    img: modulaireImage,
   },
   {
     id: 3,
@@ -70,9 +78,9 @@ const products = [
       { useCase: "products.product3.usecases.usecase4" },
     ],
     faq: [
-      { question: "products.product3.faq.questions.questoin1", answer: "products.product3.faq.answers.answer1" },
+      { question: "products.product3.faq.questions.question1", answer: "products.product3.faq.answers.answer1" },
     ],
-    img: "https://via.placeholder.com/150",
+    img: metalImage,
   },
   {
     id: 4,
@@ -95,10 +103,10 @@ const products = [
       { useCase: "products.product3.usecases.usecase4" },
     ],
     faq: [
-      { question: "products.product4.faq.questions.questoin1", answer: "products.product4.faq.answers.answer1" },
-      { question: "products.product4.faq.questions.questoin2", answer: "products.product4.faq.answers.answer2" },
+      { question: "products.product4.faq.questions.question1", answer: "products.product4.faq.answers.answer1" },
+      { question: "products.product4.faq.questions.question2", answer: "products.product4.faq.answers.answer2" },
     ],
-    img: "https://via.placeholder.com/150",
+    img: maintenanceImage,
   },
   {
     id: 5,
@@ -123,10 +131,10 @@ const products = [
       { useCase: "products.product5.usecases.usecase4" },
     ],
     faq: [
-      { question: "products.product5.faq.questions.questoin1", answer: "products.product5.faq.answers.answer1" },
-      { question: "products.product5.faq.questions.questoin2", answer: "products.product5.faq.answers.answer2" },
+      { question: "products.product5.faq.questions.question1", answer: "products.product5.faq.answers.answer1" },
+      { question: "products.product5.faq.questions.question2", answer: "products.product5.faq.answers.answer2" },
     ],
-    img: "https://via.placeholder.com/150",
+    img: menuiserieImage,
   },
   {
     id: 6,
@@ -146,79 +154,36 @@ const products = [
       { useCase: "products.product6.usecases.usecase2" },
     ],
     faq: [
-      { question: "products.product6.faq.questions.questoin1", answer: "products.product6.faq.answers.answer1" },
+      { question: "products.product6.faq.questions.question1", answer: "products.product6.faq.answers.answer1" },
     ],
-    img: "https://via.placeholder.com/150",
+    img: serieImage,
   },
+  
   {
     id: 7,
     category: "C",
-    name: "Decoupage Netoiyage",
+    name: "Traitement de peinture",
     title: "products.product7.title",
     description: "products.product7.description",
-    tagline: "products.product7.tagline",
-    overview: "products.product7.overview",
+    tagline: "products.product8.tagline",
+    overview: "products.product8.overview",
     features: [
       { feature: "products.product7.features.feature1", benefit: "products.product7.benefits.benefit1" },
       { feature: "products.product7.features.feature2", benefit: "products.product7.benefits.benefit2" },
+      { feature: "products.product7.features.feature3", benefit: "products.product7.benefits.benefit3" },
+      { feature: "products.product7.features.feature4", benefit: "products.product7.benefits.benefit4" },
+      { feature: "products.product7.features.feature5", benefit: "products.product7.benefits.benefit5" },
     ],
     useCases: [
       { useCase: "products.product7.usecases.usecase1" },
       { useCase: "products.product7.usecases.usecase2" },
       { useCase: "products.product7.usecases.usecase3" },
-      { useCase: "products.product7.usecases.usecase4" },
     ],
     faq: [
-      { question: "products.product7.faq.questions.questoin1", answer: "products.product7.faq.answers.answer1" },
+      { question: "products.product7.faq.questions.question1", answer: "products.product7.faq.answers.answer1" },
     ],
-    img: "https://via.placeholder.com/150",
+    img: paintImage,
   },
-  {
-    id: 8,
-    category: "C",
-    name: "Traitement chimique",
-    title: "products.product8.title",
-    description: "products.product8.description",
-    tagline: "products.product8.tagline",
-    overview: "products.product8.overview",
-    features: [
-      { feature: "products.product8.features.feature1", benefit: "products.product8.benefits.benefit1" },
-      { feature: "products.product8.features.feature2", benefit: "products.product8.benefits.benefit2" },
-    ],
-    useCases: [
-      { useCase: "products.product8.usecases.usecase1" },
-    ],
-    faq: [
-      { question: "products.product8.faq.questions.questoin1", answer: "products.product8.faq.answers.answer1" },
-    ],
-    img: "https://via.placeholder.com/150",
-  },
-  {
-    id: 9,
-    category: "C",
-    name: "Traitement de peinture",
-    title: "products.product9.title",
-    description: "products.product9.description",
-    tagline: "products.product9.tagline",
-    overview: "products.product9.overview",
-    features: [
-      { feature: "products.product9.features.feature1", benefit: "products.product9.benefits.benefit1" },
-      { feature: "products.product9.features.feature2", benefit: "products.product9.benefits.benefit2" },
-      { feature: "products.product9.features.feature3", benefit: "products.product9.benefits.benefit3" },
-      { feature: "products.product9.features.feature4", benefit: "products.product9.benefits.benefit4" },
-      { feature: "products.product9.features.feature5", benefit: "products.product9.benefits.benefit5" },
-    ],
-    useCases: [
-      { useCase: "products.product9.usecases.usecase1" },
-      { useCase: "products.product9.usecases.usecase2" },
-      { useCase: "products.product9.usecases.usecase3" },
-    ],
-    faq: [
-      { question: "products.product9.faq.questions.questoin1", answer: "products.product9.faq.answers.answer1" },
-    ],
-    img: "https://via.placeholder.com/150",
-    // },
-  }
 ];
 
 export default products;

@@ -71,6 +71,32 @@
         "action": "Explore our services, contact our team.",
         "addition": "Showcase of flagship projects and engineering solutions. Our approach to solving technical challenges."
     },
+    "productmenu":{
+        "products":{
+            "title": "Our Products",
+            "welcome": "Welcome to our product page. Here you can find a variety of items categorized for your convenience. Use the filter to narrow down your search.",
+            "more": "For more information about our products, please contact our support team.",
+            "more2": "Our products are sourced from the best suppliers and are guaranteed to meet your expectations. We offer a wide range of categories to choose from.",
+            "filter": {
+                "all": "All",
+                "productsA": "Products A",
+                "productsB": "Products B",
+                "productsC": "Products C"
+            },
+            "category":"Category :",
+            "foot": "Thank you for visiting our product page. We hope you find what you are looking for!"
+        },
+        "product":{
+            "contact": "Contact Us",
+            "feature": "Features and Benefits",
+            "use": "use cases",
+            "frequent": "Frequently Asked Questions",
+            "question": "Q:",
+            "answer": "A:",
+            "info": "Contact Information",
+            "contactus": "Contact us at info@example.com"
+        }
+    },
     "products": {
         "product1": {
             "title": "Computer-Aided Design (CAD)",
@@ -268,59 +294,6 @@
             }
         },
         "product7": {
-            "title": "Surface Cleaning and Stripping",
-            "description": "Surface stripping and cleaning services",
-            "tagline": "Keeping your operations running smoothly.",
-            "overview": "Our industrial maintenance services ensure that your equipment stays operational, minimizing downtime and maximizing efficiency.",
-            "features": {
-                "feature1": "Proactive maintenance programs",
-                "feature2": "24/7 emergency support"
-            },
-            "benefits": {
-                "benefit1": "Avoid unexpected breakdowns and costly repairs.",
-                "benefit2": "Get help when you need it most."
-            },
-            "usecases": {
-                "usecase1": "Office Buildings: Modular construction is ideal for creating temporary or permanent office spaces quickly and efficiently. Companies can scale their office size as their workforce grows.",
-                "usecase2": "Schools and Classrooms: Modular classrooms offer a fast solution to accommodate growing student populations or temporary learning spaces during renovations.",
-                "usecase3": "Retail Spaces: Create modular pop-up shops, kiosks, or standalone retail units for flexible and cost-effective business solutions.",
-                "usecase4": "Event Structures: Use modular units for event spaces, exhibition booths, or temporary pavilions, offering a high-quality and reusable solution."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Do you offer onsite support?"
-                },
-                "answers": {
-                    "answer1": "Yes, our technicians can visit your facility."
-                }
-            }
-        },
-        "product8": {
-            "title": "Chemical Treatment",
-            "description": "Chemical treatment of surfaces",
-            "tagline": "Enhancing surface durability and performance through advanced chemical treatments.",
-            "overview": "Our Chemical Treatment service offers professional chemical treatments designed to improve the strength, durability, and aesthetics of surfaces. From corrosion resistance to enhanced paint adhesion, we provide tailored solutions to meet your industrial, commercial, and architectural needs.",
-            "features": {
-                "feature1": "Anti-Corrosion Treatment",
-                "feature2": "Improved Paint Adhesion"
-            },
-            "benefits": {
-                "benefit1": "Protect metal surfaces from rust and corrosion, extending the lifespan of your materials.",
-                "benefit2": "Ensure paints and coatings bond effectively to surfaces for long-lasting results."
-            },
-            "usecases": {
-                "usecase1": "Industrial Machinery: Protect machine parts from wear and tear with anti-corrosion and surface-hardening treatments."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Do you offer onsite support?"
-                },
-                "answers": {
-                    "answer1": "Yes, our technicians can visit your facility."
-                }
-            }
-        },
-        "product9": {
             "title": "Paint Treatment",
             "description": "Surface paint treatment",
             "tagline": "Enhancing durability and aesthetics with precision paint treatments.",

@@ -25,7 +25,7 @@ const ProductDetail = () => {
     <div className="product-page">
       <section className="hero" style={{ backgroundImage: `url(${product.img})` }}>
         <h1>{t(product.title)}</h1>
-        <Link to="/contact" className="cta-btn">Contact Us</Link>
+        <Link to="/contact" className="cta-btn">{t("productmenu.product.contact")}</Link>
         <p>{t(product.tagline)}</p>
       </section>
       <div className="details">
@@ -33,7 +33,7 @@ const ProductDetail = () => {
         <p>{t(product.overview)}</p>
       </section>
       <section className="features">
-        <h3>Features and Benefits</h3>
+        <h3>{t("productmenu.product.feature")}</h3>
         <ul>
           {product.features.map((item, index) => (
             <li key={index}>
@@ -43,7 +43,7 @@ const ProductDetail = () => {
         </ul>
       </section>
       <section className="use-cases">
-        <h3>Use Cases</h3>
+        <h3>{t("productmenu.product.use")}</h3>
         <ul>
           {product.useCases.map((item, index) => (
             <li key={index}><p>{t(item.useCase)}</p></li>
@@ -51,17 +51,17 @@ const ProductDetail = () => {
         </ul>
       </section>
       <section className="faq">
-        <h3>Frequently Asked Questions</h3>
+        <h3>{t("productmenu.product.frequent")}</h3>
         {product.faq.map((item, index) => (
           <div key={index}>
-            <strong>Q: {t(item.question)}</strong>
-            <p>A: {t(item.answer)}</p>
+            <strong>{t("productmenu.product.question")} {t(item.question)}</strong>
+            <p>{t("productmenu.product.answer")} {t(item.answer)}</p>
           </div>
         ))}
       </section>
       <section className="contact">
-        <h3>Contact Information</h3>
-        <p>Contact us at info@example.com or call (123) 456-7890.</p>
+        <h3>{t("productmenu.product.info")}</h3>
+        <p>{t("productmenu.product.contactus")}</p>
       </section>
       </div>
     </div>
