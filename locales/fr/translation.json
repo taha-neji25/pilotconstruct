@@ -1,5 +1,5 @@
 {
-    "menu":{
+    "menu": {
         "brand": "pilot construct",
         "about": "à propos",
         "contact": "contact",
@@ -17,7 +17,7 @@
         "description": "Construisons l'avenir avec précision et innovation",
         "button": "Découvrez nos produits et services"
     },
-    "prodserv":{
+    "prodserv": {
         "title": "Quels sont nos services et produits",
         "prodserv1": {
             "name": "A- Construction métallique",
@@ -35,12 +35,12 @@
     "contact": {
         "title": "Contactez-nous",
         "greeting": "Nous aimerions avoir de vos nouvelles!",
-        "info":{
+        "info": {
             "info": "Nos coordonnées",
             "address": "Rue Hedi Chaker, Sakiet Ezzit, Sfax 3021",
             "phone1": "tel: 21 262 771",
             "phone2": "tel: 25 778 739",
-            "email1": "Mail: pilotconstract@gmail.com",
+            "email1": "Mail: pilotconstruct@gmail.com",
             "email2": "Mail: nejiabderrahmen@gmail.com",
             "bussinesshours": "Heures d'ouverture: Lun-Sam, 8h - 18h"
         },
@@ -65,18 +65,266 @@
         "visions": "Vision :",
         "vision": "Être un leader mondial des services d'ingénierie, reconnu pour notre engagement envers l'excellence et l'innovation.",
         "history": "Fondée en 2025, Pilot Construct a commencé avec une vision de révolutionner l'industrie de l'ingénierie.",
-        "name": "Nom :",
-        "position": "Position :",
-        "thename1": "Neji Abderrahmen",
-        "thename2": "Dheker Neji",
-        "theposition1": "PDG",
-        "theposition2": "CTO",
-        "details1": "Ingénieur mécanique, 5 ans d'expérience, Manager.",
-        "details2": "Ingénieur mécanique, 5 ans d'expérience, Manager.",
         "values": "Innovation, intégrité, orientation client.",
         "strengths": "Expertise en ingénierie mécanique et construction. Technologies et méthodologies uniques.",
         "efforts": "Mise en avant de nos initiatives environnementales et communautaires.",
         "action": "Découvrez nos services, contactez notre équipe.",
         "addition": "Présentation des projets phares et des solutions d'ingénierie. Notre approche pour résoudre les défis techniques."
+    },
+    "productmenu": {
+        "products": {
+            "title": "Nos Produits",
+            "welcome": "Bienvenue sur notre page de produits. Ici, vous pouvez trouver une variété d'articles classés pour votre commodité. Utilisez le filtre pour affiner votre recherche.",
+            "more": "Pour plus d'informations sur nos produits, veuillez contacter notre équipe de support.",
+            "more2": "Nos produits sont sourcés auprès des meilleurs fournisseurs et sont garantis de répondre à vos attentes. Nous offrons un large éventail de catégories parmi lesquelles choisir.",
+            "filter": {
+                "all": "Tous",
+                "productsA": "Produits A",
+                "productsB": "Produits B",
+                "productsC": "Produits C"
+            },
+            "category": "Catégorie :",
+            "foot": "Merci d'avoir visité notre page de produits. Nous espérons que vous trouverez ce que vous cherchez !"
+        },
+        "product": {
+            "contact": "Contactez-nous",
+            "feature": "Caractéristiques et avantages",
+            "use": "Cas d'utilisation",
+            "frequent": "Foire aux questions",
+            "question": "Q :",
+            "answer": "R :",
+            "info": "Informations de contact",
+            "contactus": "Contactez-nous à pilotconstract@gmail.com"
+        }
+    },
+    "products": {
+        "product1": {
+            "title": "Dessin assisté par ordinateur (DAO)",
+            "description": "Conception assistée par ordinateur et dessin assisté par ordinateur",
+            "tagline": "Des solutions de précision adaptées à vos besoins industriels.",
+            "overview": "DAO (Conception et Dessin) est une suite d'outils logiciels puissants comme Tekla, SolidWorks et AutoCAD conçus pour créer des modèles 2D et 3D précis et détaillés pour les projets d'ingénierie, de construction et de fabrication. Ces outils permettent d'optimiser les flux de travail de conception, d'améliorer la précision et de renforcer la collaboration entre les équipes.",
+            "features": {
+                "feature1": "Délais d'exécution rapides",
+                "feature2": "Capacités de conception 2D et 3D",
+                "feature3": "Modélisation paramétrique (SolidWorks)",
+                "feature4": "Modélisation et analyse structurelle (Tekla)",
+                "feature5": "Compatibilité DWG (AutoCAD)"
+            },
+            "benefits": {
+                "benefit1": "Respectez les délais serrés sans compromettre la qualité.",
+                "benefit2": "Permet la création de dessins détaillés et de modélisations 3D complexes pour des conceptions précises et professionnelles.",
+                "benefit3": "Créez et mettez facilement à jour les conceptions en ajustant les paramètres, ce qui permet de gagner du temps sur les modifications itératives.",
+                "benefit4": "Simplifie la conception et la fabrication des composants structurels, garantissant que les conceptions respectent les normes de sécurité et de performance.",
+                "benefit5": "Partagez et collaborez facilement sur des conceptions avec d'autres professionnels en utilisant des formats de fichiers standard de l'industrie."
+            },
+            "usecases": {
+                "usecase1": "Génie Structurel (Tekla) : Créez des modèles 3D détaillés pour les composants en acier, béton et bois utilisés dans les bâtiments, les ponts et les structures industrielles.",
+                "usecase2": "Conception Mécanique (SolidWorks) : Concevez des pièces mécaniques et des assemblages complexes pour les machines, les robots, les composants automobiles et les produits de consommation.",
+                "usecase3": "Dessin Architectural (AutoCAD) : Produisez des plans 2D de haute qualité, commerciaux et industriels."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Combien de temps faut-il pour terminer un projet ?"
+                },
+                "answers": {
+                    "answer1": "La plupart des projets sont terminés en 2 à 4 semaines, selon leur complexité."
+                }
+            }
+        },
+        "product2": {
+            "title": "Construction Modulaire",
+            "description": "Construction de bâtiments préfabriqués",
+            "tagline": "Des pièces de haute précision pour chaque industrie.",
+            "overview": "Nos services de construction modulaire simplifient le processus de construction, réduisent les déchets et livrent des structures en un temps record.",
+            "features": {
+                "feature1": "Prototypage rapide",
+                "feature2": "Processus rentable",
+                "feature3": "Construction hors site",
+                "feature4": "Solutions évolutives",
+                "feature5": "Construction résistante aux intempéries"
+            },
+            "benefits": {
+                "benefit1": "Passez rapidement et efficacement de la conception à la production.",
+                "benefit2": "Des coûts de main-d'œuvre réduits et moins de déchets matériels font de la construction modulaire une solution plus abordable que les méthodes traditionnelles.",
+                "benefit3": "Réduit les perturbations sur site, garantissant une livraison rapide du projet tout en maintenant la sécurité et la propreté.",
+                "benefit4": "Ajoutez ou modifiez facilement des modules pour répondre aux besoins changeants, offrant une flexibilité à long terme.",
+                "benefit5": "Assure la durabilité et minimise les retards causés par les conditions météorologiques défavorables pendant le processus de construction."
+            },
+            "usecases": {
+                "usecase1": "Bureaux : La construction modulaire est idéale pour créer des espaces de bureau temporaires ou permanents rapidement et efficacement. Les entreprises peuvent adapter la taille de leurs bureaux à la croissance de leur personnel.",
+                "usecase2": "Écoles et Salles de Classe : Les salles de classe modulaires offrent une solution rapide pour accueillir un nombre croissant d'élèves ou pour fournir des espaces d'apprentissage temporaires pendant les rénovations.",
+                "usecase3": "Espaces Commerciaux : Créez des boutiques éphémères, des kiosques ou des unités commerciales autonomes modulaires pour des solutions d'affaires flexibles et rentables.",
+                "usecase4": "Structures d'Événements : Utilisez des unités modulaires pour des espaces événementiels, des stands d'exposition ou des pavillons temporaires, offrant une solution de haute qualité et réutilisable."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Les bâtiments modulaires sont-ils personnalisables ?",
+                    "question2": "Quels matériaux utilisez-vous ?"
+                },
+                "answers": {
+                    "answer1": "Oui, nous adaptons les conceptions à vos besoins.",
+                    "answer2": "Nous travaillons avec des métaux, plastiques, composites et bien plus encore."
+                }
+            }
+        },
+        "product3": {
+            "title": "Structure Métallique",
+    "description": "Fabrication de structures métalliques",
+    "tagline": "Maintenir vos opérations en toute fluidité.",
+    "overview": "Nos services de maintenance industrielle garantissent que vos équipements restent opérationnels, minimisant les temps d'arrêt et maximisant l'efficacité.",
+    "features": {
+        "feature1": "Programmes de maintenance proactive",
+        "feature2": "Support d'urgence 24/7"
+    },
+    "benefits": {
+        "benefit1": "Évitez les pannes imprévues et les réparations coûteuses.",
+        "benefit2": "Obtenez de l'aide quand vous en avez le plus besoin."
+    },
+    "usecases": {
+        "usecase1": "Bâtiments de bureaux : La construction modulaire est idéale pour créer des espaces de bureau temporaires ou permanents rapidement et efficacement. Les entreprises peuvent adapter la taille de leurs bureaux à la croissance de leur personnel.",
+        "usecase2": "Écoles et salles de classe : Les salles de classe modulaires offrent une solution rapide pour accueillir une population étudiante croissante ou des espaces d'apprentissage temporaires pendant des rénovations.",
+        "usecase3": "Espaces de vente : Créez des boutiques éphémères modulaires, des kiosques ou des unités de vente autonomes pour des solutions commerciales flexibles et rentables.",
+        "usecase4": "Structures événementielles : Utilisez des unités modulaires pour des espaces événementiels, des stands d'exposition ou des pavillons temporaires, offrant une solution de haute qualité et réutilisable."
+    },
+    "faq": {
+        "questions": {
+            "question1": "Proposez-vous un support sur site ?"
+        },
+        "answers": {
+            "answer1": "Oui, nos techniciens peuvent se déplacer sur votre site."
+        }
+    }
+},
+        "product4": {
+            "title": "Maintenance",
+            "description": "Maintenance des bâtiments et structures",
+            "tagline": "Garantir la longévité et la sécurité de vos bâtiments et structures.",
+            "overview": "Notre service de maintenance des bâtiments et structures propose des solutions proactives et réactives pour préserver l'intégrité, la fonctionnalité et la sécurité de vos infrastructures. Conçus pour les propriétés industrielles, commerciales et résidentielles, nos programmes de maintenance minimisent les interruptions, réduisent les coûts et prolongent la durée de vie de vos actifs.",
+            "features": {
+                "feature1": "Programmes de maintenance proactive",
+                "feature2": "Inspections sur site",
+                "feature3": "Services de réparation d'urgence",
+                "feature4": "Renforcement structurel et mises à niveau"
+            },
+            "benefits": {
+                "benefit1": "Évitez les pannes imprévues et les réparations coûteuses en traitant les problèmes potentiels avant qu'ils ne s'aggravent.",
+                "benefit2": "Identifiez les faiblesses structurelles et les risques de sécurité grâce à des évaluations détaillées adaptées à vos besoins spécifiques.",
+                "benefit3": "Le support 24/7 garantit que les problèmes critiques sont résolus rapidement, minimisant les perturbations dans vos opérations.",
+                "benefit4": "Améliorez la durabilité et la performance de vos bâtiments pour répondre aux normes de sécurité et d'efficacité modernes."
+            },
+            "usecases": {
+                "usecase1": "Installations industrielles : La maintenance régulière garantit le bon fonctionnement des usines, entrepôts et services publics sans interruption.",
+                "usecase2": "Bâtiments commerciaux : Préservez l'apparence et la fonctionnalité des complexes de bureaux, espaces commerciaux et lieux d'hébergement grâce à une maintenance fiable.",
+                "usecase3": "Établissements éducatifs : Maintenez les écoles, universités et centres de formation en excellent état pour les étudiants et le personnel.",
+                "usecase4": "Infrastructures de services publics : Entretenez les systèmes critiques comme les réservoirs d'eau pour garantir un fonctionnement continu et la conformité aux réglementations."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "À quelle fréquence les bâtiments doivent-ils être inspectés pour la maintenance ?",
+                    "question2": "Quelles industries bénéficient de vos services de maintenance ?"
+                },
+                "answers": {
+                    "answer1": "Cela dépend de l'utilisation et de l'état du bâtiment. En général, des inspections annuelles sont recommandées pour les propriétés résidentielles et commerciales, tandis que les installations industrielles peuvent nécessiter des contrôles plus fréquents.",
+                    "answer2": "Nous desservons une large gamme d'industries, notamment la fabrication, l'éducation, l'hôtellerie, la vente au détail, les soins de santé et plus encore."
+                }
+            }
+        },
+        "product5": {
+            "title": "Menuiserie Métallique et Ferronnerie",
+            "description": "Fabrication de portes, fenêtres, grilles, portails, etc.",
+            "tagline": "Créer des ouvrages métalliques durables et esthétiques adaptés à vos besoins.",
+            "overview": "Notre service de Menuiserie Métallique et Ferronnerie se spécialise dans la conception, la fabrication et l'installation d'ouvrages métalliques sur mesure, y compris les portes, fenêtres, grilles, rampes, portails et éléments décoratifs. En combinant durabilité, fonctionnalité et esthétique, nous proposons des solutions métalliques qui améliorent les espaces résidentiels et commerciaux.",
+            "features": {
+                "feature1": "Fabrication métallique sur mesure",
+                "feature2": "Produits de haute qualité",
+                "feature3": "Designs modernes et traditionnels",
+                "feature4": "Artisanat de précision",
+                "feature5": "Large gamme de produits"
+            },
+            "benefits": {
+                "benefit1": "Obtenez des conceptions sur mesure répondant à vos spécifications exactes à des fins fonctionnelles et décoratives.",
+                "benefit2": "Profitez d'ouvrages métalliques durables et résistants à la corrosion capables de supporter des conditions climatiques difficiles.",
+                "benefit3": "Choisissez parmi une variété de styles adaptés à vos préférences architecturales, qu'elles soient classiques ou contemporaines.",
+                "benefit4": "Assurez des finitions impeccables et des mesures précises pour une intégration parfaite avec votre propriété.",
+                "benefit5": "Accédez à une large gamme d'ouvrages métalliques, y compris les clôtures, rampes d'escaliers et panneaux décoratifs."
+            },
+            "usecases": {
+                "usecase1": "Espaces résidentiels : Installez des portails, portes et grilles de fenêtres sur mesure pour améliorer la sécurité et rehausser l'esthétique des maisons.",
+                "usecase2": "Propriétés commerciales : Fournissez des rampes, escaliers et entrées durables et élégants pour les bureaux, hôtels et magasins.",
+                "usecase3": "Infrastructures publiques : Créez des clôtures solides et attrayantes, des garde-corps et des séparations pour des espaces publics tels que les parcs et bâtiments gouvernementaux.",
+                "usecase4": "Applications décoratives : Ajoutez des œuvres métalliques artistiques aux jardins, patios ou intérieurs pour donner aux espaces un aspect unique et sophistiqué."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Pouvez-vous reproduire des designs existants pour des rénovations ?",
+                    "question2": "Proposez-vous à la fois des designs standards et sur mesure ?"
+                },
+                "answers": {
+                    "answer1": "Oui, nous pouvons recréer ou restaurer des ouvrages métalliques pour qu'ils correspondent aux designs existants dans le cadre de rénovations ou de restaurations historiques.",
+                    "answer2": "Absolument. Nous proposons un catalogue de designs standards et offrons également des solutions entièrement personnalisées selon vos spécifications."
+                }
+            }
+        },
+        "product6": {
+            "title": "Construction et fabrication en série",
+            "description": "Construction et production à grande échelle",
+            "tagline": "Fabrication en grande série avec précision et efficacité.",
+            "overview": "Notre service de construction et fabrication en série offre des solutions évolutives et efficaces pour produire des composants et structures standardisés en grande quantité. Avec un accent sur la qualité, nous répondons aux besoins des industries nécessitant des processus de fabrication répétitifs, cohérents et rentables.",
+            "features": {
+                "feature1": "Production en grande quantité",
+                "feature2": "Solutions économiques",
+                "feature3": "Polyvalence des matériaux"
+            },
+            "benefits": {
+                "benefit1": "Fabriquez rapidement de grandes quantités de composants pour respecter des délais serrés et les exigences de projets à grande échelle.",
+                "benefit2": "Bénéficiez des économies d'échelle pour réduire les coûts de production globaux sans compromettre la qualité.",
+                "benefit3": "Travaillez avec une large gamme de matériaux, notamment l'acier, l'aluminium et les matériaux composites, pour diverses applications."
+            },
+            "usecases": {
+                "usecase1": "Fabrication industrielle : Produisez en masse des pièces et composants pour des machines, outils et équipements avec une qualité constante.",
+                "usecase2": "Projets de construction : Créez des composants de construction préfabriqués comme des poutres, panneaux et cadres pour des projets de grande envergure."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Puis-je demander des personnalisations pour des commandes à grande échelle ?"
+                },
+                "answers": {
+                    "answer1": "Absolument. Bien que nous soyons spécialisés dans la production standardisée, nous pouvons adapter les conceptions pour répondre aux exigences spécifiques des projets."
+                }
+            }
+        },
+        "product7": {
+            "title": "Traitement de Peinture",
+            "description": "Traitement de peinture des surfaces",
+            "tagline": "Améliorer la durabilité et l'esthétique avec des traitements de peinture de précision.",
+            "overview": "Notre service de Traitement de Peinture est spécialisé dans l'application de finitions de peinture de haute qualité sur les métaux et autres surfaces. Avec des techniques avancées et des matériaux de première qualité, nous assurons une protection durable et une esthétique attrayante pour des applications industrielles, commerciales et décoratives.",
+            "features": {
+                "feature1": "Peintures et revêtements de haute qualité",
+                "feature2": "Couleurs et finitions personnalisables",
+                "feature3": "Expertise en préparation de surface",
+                "feature4": "Délais d'exécution rapides",
+                "feature5": "Techniques d'application avancées"
+            },
+            "benefits": {
+                "benefit1": "Bénéficiez d'une durabilité supérieure et d'une résistance à la corrosion, aux intempéries et à l'usure.",
+                "benefit2": "Obtenez le look désiré avec une variété d'options de couleurs, textures et finitions, y compris mat, brillant et métallique.",
+                "benefit3": "Bénéficiez d'un nettoyage, d'une amorce et d'un traitement minutieux de la surface pour assurer une adhérence durable.",
+                "benefit4": "Respectez des délais serrés sans compromettre la qualité.",
+                "benefit5": "Assurez une couverture uniforme et des finitions impeccables grâce à des outils de précision et des méthodes telles que la peinture au pistolet."
+            },
+            "usecases": {
+                "usecase1": "Projets de construction : Peindre des structures métalliques, des rampes et des panneaux pour correspondre aux conceptions architecturales et offrir une résistance aux intempéries.",
+                "usecase2": "Infrastructure publique : Peindre des panneaux de signalisation, des glissières de sécurité et des structures publiques pour augmenter la visibilité et la durabilité.",
+                "usecase3": "Applications marines : Appliquer des revêtements anti-corrosion et résistants aux intempéries sur les navires, les quais et les équipements marins."
+            },
+            "faq": {
+                "questions": {
+                    "question1": "Fournissez-vous une préparation de surface avant de peindre ?"
+                },
+                "answers": {
+                    "answer1": "Absolument. Nous assurons un nettoyage minutieux de la surface, une amorce et un traitement pour une adhérence optimale de la peinture et une longue durée de vie."
+                }
+            }
+        }
     }
 }
