@@ -23,7 +23,7 @@ i18n
     fallbackLng: 'fr', // Fallback language if detection fails
     debug: true,
     backend: {
-      loadPath: '/pilotconstruct/locales/{{lng}}/{{ns}}.json',
+      loadPath: '/locales/{{lng}}/{{ns}}.json',
     },
     detection: {
       // Order and from where user language should be detected

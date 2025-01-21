@@ -9,7 +9,7 @@ const HeroSection = () => {
 
   return (
     <section className="hero">
-      <h1>{t("hero.welcome")}  <br /> {t("hero.title")}</h1>
+      <div className="titl"><h1>{t("hero.welcome")}  <br /> {t("hero.title")}</h1></div>
       <p>{t("hero.description")}</p>
       <Link to="/products" className="cta-btn">{t("hero.button")}</Link>
     </section>

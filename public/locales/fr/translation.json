@@ -94,7 +94,7 @@
             "question": "Q :",
             "answer": "R :",
             "info": "Informations de contact",
-            "contactus": "Contactez-nous à info@example.com"
+            "contactus": "Contactez-nous à pilotconstract@gmail.com"
         }
     },
     "products": {
@@ -120,7 +120,7 @@
             "usecases": {
                 "usecase1": "Génie Structurel (Tekla) : Créez des modèles 3D détaillés pour les composants en acier, béton et bois utilisés dans les bâtiments, les ponts et les structures industrielles.",
                 "usecase2": "Conception Mécanique (SolidWorks) : Concevez des pièces mécaniques et des assemblages complexes pour les machines, les robots, les composants automobiles et les produits de consommation.",
-                "usecase3": "Dessin Architectural (AutoCAD) : Produisez des plans 2D de haute qualité et des visualisations architecturales 3D pour les bâtiments résidentiels, commerciaux et industriels."
+                "usecase3": "Dessin Architectural (AutoCAD) : Produisez des plans 2D de haute qualité, commerciaux et industriels."
             },
             "faq": {
                 "questions": {
@@ -168,33 +168,33 @@
             }
         },
         "product3": {
-            "title": "Structure Metallique",
-            "description": "Fabrication de structures métalliques",
-            "tagline": "Keeping your operations running smoothly.",
-            "overview": "Our industrial maintenance services ensure your equipment stays operational, minimizing downtime and maximizing efficiency.",
-            "features": {
-                "feature1": "Proactive maintenance programs",
-                "feature2": "24/7 emergency support"
-            },
-            "benefits": {
-                "benefit1": "Avoid unexpected breakdowns and costly repairs.",
-                "benefit2": "Get help when you need it most."
-            },
-            "usecases": {
-                "usecase1": "Office Buildings: Modular construction is ideal for creating temporary or permanent office spaces quickly and efficiently. Companies can scale their office size as their workforce grows.",
-                "usecase2": "Schools and Classrooms: Modular classrooms offer a fast solution to accommodate growing student populations or temporary learning spaces during renovations.",
-                "usecase3": "Retail Spaces: Create modular pop-up shops, kiosks, or standalone retail units for flexible and cost-effective business solutions.",
-                "usecase4": "Event Structures: Use modular units for event spaces, exhibition booths, or temporary pavilions, offering a high-quality and reusable solution."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Do you offer onsite support?"
-                },
-                "answers": {
-                    "answer1": "Yes, our technicians can visit your facility."
-                }
-            }
+            "title": "Structure Métallique",
+    "description": "Fabrication de structures métalliques",
+    "tagline": "Maintenir vos opérations en toute fluidité.",
+    "overview": "Nos services de maintenance industrielle garantissent que vos équipements restent opérationnels, minimisant les temps d'arrêt et maximisant l'efficacité.",
+    "features": {
+        "feature1": "Programmes de maintenance proactive",
+        "feature2": "Support d'urgence 24/7"
+    },
+    "benefits": {
+        "benefit1": "Évitez les pannes imprévues et les réparations coûteuses.",
+        "benefit2": "Obtenez de l'aide quand vous en avez le plus besoin."
+    },
+    "usecases": {
+        "usecase1": "Bâtiments de bureaux : La construction modulaire est idéale pour créer des espaces de bureau temporaires ou permanents rapidement et efficacement. Les entreprises peuvent adapter la taille de leurs bureaux à la croissance de leur personnel.",
+        "usecase2": "Écoles et salles de classe : Les salles de classe modulaires offrent une solution rapide pour accueillir une population étudiante croissante ou des espaces d'apprentissage temporaires pendant des rénovations.",
+        "usecase3": "Espaces de vente : Créez des boutiques éphémères modulaires, des kiosques ou des unités de vente autonomes pour des solutions commerciales flexibles et rentables.",
+        "usecase4": "Structures événementielles : Utilisez des unités modulaires pour des espaces événementiels, des stands d'exposition ou des pavillons temporaires, offrant une solution de haute qualité et réutilisable."
+    },
+    "faq": {
+        "questions": {
+            "question1": "Proposez-vous un support sur site ?"
         },
+        "answers": {
+            "answer1": "Oui, nos techniciens peuvent se déplacer sur votre site."
+        }
+    }
+},
         "product4": {
             "title": "Maintenance",
             "description": "Maintenance des bâtiments et structures",
@@ -236,7 +236,7 @@
             "overview": "Notre service de Menuiserie Métallique et Ferronnerie se spécialise dans la conception, la fabrication et l'installation d'ouvrages métalliques sur mesure, y compris les portes, fenêtres, grilles, rampes, portails et éléments décoratifs. En combinant durabilité, fonctionnalité et esthétique, nous proposons des solutions métalliques qui améliorent les espaces résidentiels et commerciaux.",
             "features": {
                 "feature1": "Fabrication métallique sur mesure",
-                "feature2": "Matériaux de haute qualité",
+                "feature2": "Produits de haute qualité",
                 "feature3": "Designs modernes et traditionnels",
                 "feature4": "Artisanat de précision",
                 "feature5": "Large gamme de produits"
@@ -310,7 +310,7 @@
                 "benefit2": "Obtenez le look désiré avec une variété d'options de couleurs, textures et finitions, y compris mat, brillant et métallique.",
                 "benefit3": "Bénéficiez d'un nettoyage, d'une amorce et d'un traitement minutieux de la surface pour assurer une adhérence durable.",
                 "benefit4": "Respectez des délais serrés sans compromettre la qualité.",
-                "benefit5": "Assurez une couverture uniforme et des finitions impeccables grâce à des outils de précision et des méthodes telles que la peinture au pistolet et le revêtement en poudre."
+                "benefit5": "Assurez une couverture uniforme et des finitions impeccables grâce à des outils de précision et des méthodes telles que la peinture au pistolet."
             },
             "usecases": {
                 "usecase1": "Projets de construction : Peindre des structures métalliques, des rampes et des panneaux pour correspondre aux conceptions architecturales et offrir une résistance aux intempéries.",

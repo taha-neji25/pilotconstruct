@@ -10,7 +10,7 @@ import ProductDetail from "../components/Products/ProductDetail";
 function AppRoutes() {
   return (
     <Routes>
-      <Route path="/pilotconstruct" element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route path="/products" element={<Products />} />
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />

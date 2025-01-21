@@ -1,10 +1,10 @@
-import daoImage from '../../../assets/dao.jpg';
-import modulaireImage from '../../../assets/modulaire.jpg';
-import metalImage from '../../../assets/metal.jpg';
-import maintenanceImage from '../../../assets/maintenance.jpg';
-import serieImage from '../../../assets/serie.jpg';
-import menuiserieImage from '../../../assets/menuiserie.jpg';
-import paintImage from '../../../assets/paint.jpg';
+import daoImage from '../../assets/dao.jpg';
+import modulaireImage from '../../assets/modulaire.jpg';
+import metalImage from '../../assets/metal.jpg';
+import maintenanceImage from '../../assets/maintenance.jpg';
+import serieImage from '../../assets/serie.jpg';
+import menuiserieImage from '../../assets/menuiserie.jpg';
+import paintImage from '../../assets/paint.jpg';
 
 const products = [
   {
@@ -31,6 +31,34 @@ const products = [
       { question: "products.product1.faq.questions.question1", answer: "products.product1.faq.answers.answer1" },
     ],
     img: daoImage
+  },
+  {
+    id: 5,
+    category: "A",
+    name: "Menuiserie metallique",
+    title: "products.product5.title",
+    description: "products.product5.description",
+    tagline: "products.product5.tagline"
+    ,
+    overview: "products.product5.overview",
+    features: [
+      { feature: "products.product5.features.feature1", benefit: "products.product5.benefits.benefit1" },
+      { feature: "products.product5.features.feature2", benefit: "products.product5.benefits.benefit2" },
+      { feature: "products.product5.features.feature3", benefit: "products.product5.benefits.benefit3" },
+      { feature: "products.product5.features.feature4", benefit: "products.product5.benefits.benefit4" },
+      { feature: "products.product5.features.feature5", benefit: "products.product5.benefits.benefit5" },
+    ],
+    useCases: [
+      { useCase: "products.product5.usecases.usecase1" },
+      { useCase: "products.product5.usecases.usecase2" },
+      { useCase: "products.product5.usecases.usecase3" },
+      { useCase: "products.product5.usecases.usecase4" },
+    ],
+    faq: [
+      { question: "products.product5.faq.questions.question1", answer: "products.product5.faq.answers.answer1" },
+      { question: "products.product5.faq.questions.question2", answer: "products.product5.faq.answers.answer2" },
+    ],
+    img: menuiserieImage,
   },
   {
     id: 2,
@@ -109,34 +137,6 @@ const products = [
     img: maintenanceImage,
   },
   {
-    id: 5,
-    category: "A",
-    name: "Menuiserie metallique",
-    title: "products.product5.title",
-    description: "products.product5.description",
-    tagline: "products.product5.tagline"
-    ,
-    overview: "products.product5.overview",
-    features: [
-      { feature: "products.product5.features.feature1", benefit: "products.product5.benefits.benefit1" },
-      { feature: "products.product5.features.feature2", benefit: "products.product5.benefits.benefit2" },
-      { feature: "products.product5.features.feature3", benefit: "products.product5.benefits.benefit3" },
-      { feature: "products.product5.features.feature4", benefit: "products.product5.benefits.benefit4" },
-      { feature: "products.product5.features.feature5", benefit: "products.product5.benefits.benefit5" },
-    ],
-    useCases: [
-      { useCase: "products.product5.usecases.usecase1" },
-      { useCase: "products.product5.usecases.usecase2" },
-      { useCase: "products.product5.usecases.usecase3" },
-      { useCase: "products.product5.usecases.usecase4" },
-    ],
-    faq: [
-      { question: "products.product5.faq.questions.question1", answer: "products.product5.faq.answers.answer1" },
-      { question: "products.product5.faq.questions.question2", answer: "products.product5.faq.answers.answer2" },
-    ],
-    img: menuiserieImage,
-  },
-  {
     id: 6,
     category: "B",
     name: "Construction fabrication serie",
@@ -165,8 +165,8 @@ const products = [
     name: "Traitement de peinture",
     title: "products.product7.title",
     description: "products.product7.description",
-    tagline: "products.product8.tagline",
-    overview: "products.product8.overview",
+    tagline: "products.product7.tagline",
+    overview: "products.product7.overview",
     features: [
       { feature: "products.product7.features.feature1", benefit: "products.product7.benefits.benefit1" },
       { feature: "products.product7.features.feature2", benefit: "products.product7.benefits.benefit2" },

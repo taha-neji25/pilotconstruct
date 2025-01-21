@@ -94,7 +94,7 @@
             "question": "Q:",
             "answer": "A:",
             "info": "Contact Information",
-            "contactus": "Contact us at info@example.com"
+            "contactus": "Contact us at pilotconstract@gmail.com"
         }
     },
     "products": {
@@ -120,7 +120,7 @@
             "usecases": {
                 "usecase1": "Structural Engineering (Tekla): Create detailed 3D models for structural steel, concrete, and timber components used in buildings, bridges, and industrial structures.",
                 "usecase2": "Mechanical Design (SolidWorks): Design intricate mechanical parts and assemblies for machinery, robotics, automotive components, and consumer products.",
-                "usecase3": "Architectural Drafting (AutoCAD): Produce high-quality 2D blueprints and 3D architectural visualizations for residential, commercial, and industrial buildings."
+                "usecase3": "Architectural Drafting (AutoCAD): Produce high-quality 2D blueprints, commercial, and industrial buildings."
             },
             "faq": {
                 "questions": {
@@ -236,7 +236,7 @@
             "overview": "Our Metal Carpentry and Ironwork service specializes in designing, manufacturing, and installing custom metalworks, including doors, windows, grilles, railings, gates, and decorative elements. Combining durability, functionality, and aesthetic appeal, we deliver metal solutions that enhance both residential and commercial spaces.",
             "features": {
                 "feature1": "Custom Metal Fabrication",
-                "feature2": "High-Quality Materials",
+                "feature2": "High-Quality Products",
                 "feature3": "Modern and Traditional Designs",
                 "feature4": "Precision Craftsmanship",
                 "feature5": "Wide Range of Products"
@@ -310,7 +310,7 @@
                 "benefit2": "Achieve the desired look with a variety of color options, textures, and finishes, including matte, gloss, and metallic.",
                 "benefit3": "Benefit from thorough surface cleaning, priming, and treatment to ensure long-lasting adhesion.",
                 "benefit4": "Meet tight deadlines without compromising on quality.",
-                "benefit5": "Ensure even coverage and flawless finishes using precision tools and methods like spray painting and powder coating."
+                "benefit5": "Ensure even coverage and flawless finishes using precision tools and methods like spray painting."
             },
             "usecases": {
                 "usecase1": "Construction Projects: Paint metal structures, railings, and panels to match architectural designs and provide weather resistance.",
