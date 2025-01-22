@@ -40,3 +40,19 @@
     transform: translateY(-10px);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
   }
+
+
+  .title-welcome,
+.welcome-paragraph {
+  font-family: "Arial", sans-serif;
+}
+
+.welcome-paragraph {
+  color: #d6d6d6;
+  font-size: 1em;
+}
+
+.title-welcome {
+  font-size: 2em;
+  font-weight: bold;
+}

@@ -24,10 +24,11 @@ const ProductDetail = () => {
   return (
     <div className="product-page">
       <section className="hero" style={{ backgroundImage: `url(${product.img})` }}>
-        <div className="titl
-        "><h1>{t(product.title)}</h1></div>
+      <div className="title-welcome">
+        {t(product.title)}
+      </div>
         <Link to="/contact" className="cta-btn">{t("productmenu.product.contact")}</Link>
-        <p>{t(product.tagline)}</p>
+        <div className="welcome-paragraph">{t(product.tagline)}</div>
       </section>
       <div className="details">
       <section className="overview">
