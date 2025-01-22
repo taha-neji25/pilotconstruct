@@ -13,7 +13,7 @@
     },
     "hero": {
         "welcome": "Welcome to",
-        "title": "Pilot Construct",
+        "title": "Pilot Constract",
         "description": "Building the future with precision and innovation",
         "button": "Explore our products and services"
     },
@@ -59,7 +59,7 @@
             "action": "Call to Action",
             "addition": "Engineering Services-Specific Additions"
         },
-        "overview": "Pilot Construct delivers top-notch solutions construction metallique, construction Mecanique, and Traitement de surface. We focus on engineering services with a global reach.",
+        "overview": "Pilot Constract delivers top-notch solutions construction metallique, construction Mecanique, and Traitement de surface. We focus on engineering services with a global reach.",
         "missions": "Mission:",
         "mission": "To provide innovative engineering solutions that ensure the highest quality and customer satisfaction.",
         "visions": "Vision:",
@@ -168,32 +168,32 @@
             }
         },
         "product3": {
-            "title": "Metal Structures",
-            "description": "Fabrication of metal structures",
-            "tagline": "Keeping your operations running smoothly.",
-            "overview": "Our industrial maintenance services ensure your equipment stays operational, minimizing downtime and maximizing efficiency.",
-            "features": {
-                "feature1": "Proactive Maintenance Programs",
-                "feature2": "24/7 Emergency Support"
-            },
-            "benefits": {
-                "benefit1": "Avoid unexpected breakdowns and costly repairs.",
-                "benefit2": "Get help when you need it most."
-            },
-            "usecases": {
-                "usecase1": "Office Buildings: Modular construction is ideal for creating temporary or permanent office spaces quickly and efficiently. Companies can scale their office size as their workforce grows.",
-                "usecase2": "Schools and Classrooms: Modular classrooms offer a fast solution to accommodate growing student populations or temporary learning spaces during renovations.",
-                "usecase3": "Retail Spaces: Create modular pop-up shops, kiosks, or standalone retail units for flexible and cost-effective business solutions.",
-                "usecase4": "Event Structures: Use modular units for event spaces, exhibition booths, or temporary pavilions, offering a high-quality and reusable solution."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Do you offer onsite support?"
-                },
-                "answers": {
-                    "answer1": "Yes, our technicians can visit your facility."
-                }
-            }
+            "title": "Metal Structure",
+  "description": "Manufacturing of metal structures",
+  "tagline": "Metal solutions for your projects.",
+  "overview": "We design and manufacture metal structures tailored to your needs, combining durability, aesthetics, and performance.",
+  "features": {
+    "feature1": "Custom design and bespoke manufacturing",
+    "feature2": "High-quality materials for optimal durability"
+  },
+  "benefits": {
+    "benefit1": "Solutions tailored to your specific needs.",
+    "benefit2": "Reliable, durable, and aesthetically pleasing structures."
+  },
+  "usecases": {
+    "usecase1": "Industrial Buildings: Robust metal structures for warehouses, factories, and other industrial buildings requiring durability and performance.",
+    "usecase2": "Bridges and Walkways: Design and manufacturing of metal bridges and walkways, suitable for heavy loads and various environments.",
+    "usecase3": "Event Structures: Metal solutions for temporary stands, pavilions, or stages, combining aesthetics and strength.",
+    "usecase4": "Urban Architecture: Structures for architectural projects such as sculptures, shelters, or urban decorative elements."
+  },
+  "faq": {
+    "questions": {
+      "question1": "What types of metal structures do you offer?"
+    },
+    "answers": {
+      "answer1": "We provide a wide range of metal structures, from industrial buildings to urban decorative elements."
+    }
+  }
         },
         "product4": {
             "title": "Maintenance",
@@ -266,65 +266,68 @@
             }
         },
         "product6": {
-            "title": "Series Construction and Fabrication",
-            "description": "Series construction and manufacturing",
-            "tagline": "High-volume manufacturing with precision and efficiency.",
-            "overview": "Our Series Construction and Fabrication service offers scalable and efficient solutions for producing standardized components and structures in large quantities. With a focus on quality, we meet the demands of industries requiring repeatable, consistent, and cost-effective fabrication processes.",
-            "features": {
-                "feature1": "High-Volume Production",
-                "feature2": "Cost-Effective Solutions",
-                "feature3": "Material Versatility"
-            },
-            "benefits": {
-                "benefit1": "Manufacture large quantities of components quickly to meet tight deadlines and large-scale project requirements.",
-                "benefit2": "Benefit from economies of scale to reduce overall production costs without sacrificing quality.",
-                "benefit3": "Work with a wide range of materials, including steel, aluminum, and composite materials, for diverse applications."
-            },
-            "usecases": {
-                "usecase1": "Industrial Manufacturing: Mass-produce parts and components for machinery, tools, and equipment with consistent quality.",
-                "usecase2": "Construction Projects: Create prefabricated building components like beams, panels, and frames for large-scale developments."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Can I request customizations for large-scale orders?"
-                },
-                "answers": {
-                    "answer1": "Absolutely. While we specialize in standardized production, we can adapt designs to meet specific project requirements."
-                }
-            }
+            "title": "Construction and Manufacturing",
+  "description": "Comprehensive solutions for large-scale construction and production.",
+  "tagline": "Precision, efficiency, and quality at scale.",
+  "overview": "We provide end-to-end solutions for construction and large-scale manufacturing, catering to the needs of modern industries. Utilizing advanced technologies and extensive expertise, we produce standardized components and structures in large quantities while adhering to high-quality standards. Our services span a variety of sectors, including manufacturing, construction, and infrastructure projects.",
+  "features": {
+    "feature1": "High-volume production capacity for complex industrial projects.",
+    "feature2": "Modern technologies for enhanced precision and efficiency.",
+    "feature3": "Versatile use of materials, including steel, aluminum, and composites."
+  },
+  "benefits": {
+    "benefit1": "Optimize your projects with our expertise in mass manufacturing and fast turnaround times.",
+    "benefit2": "Reduce costs through streamlined production processes and economies of scale.",
+    "benefit3": "Customize materials and designs for a variety of industrial and architectural applications."
+  },
+  "usecases": {
+    "usecase1": "Manufacturing Industry: Mass production of parts for machinery, tools, and equipment with precise tolerances.",
+    "usecase2": "Construction: Fabrication of prefabricated modular structures such as frames, beams, and panels for residential and commercial projects.",
+    "usecase3": "Infrastructure: Creation of metallic components for bridges, walkways, and other durable structures."
+  },
+  "faq": {
+    "questions": {
+      "question1": "Do you offer custom solutions for specific projects?"
+    },
+    "answers": {
+      "answer1": "Yes, we closely collaborate with our clients to tailor our products to their specific needs while ensuring efficient production."
+    }
+  }
         },
         "product7": {
-            "title": "Paint Treatment",
-            "description": "Surface paint treatment",
-            "tagline": "Enhancing durability and aesthetics with precision paint treatments.",
-            "overview": "Our Paint Treatment service specializes in applying high-quality paint finishes to metal and other surfaces. With advanced techniques and premium materials, we ensure long-lasting protection and visual appeal for industrial, commercial, and decorative applications.",
-            "features": {
-                "feature1": "High-Quality Paints and Coatings",
-                "feature2": "Customizable Colors and Finishes",
-                "feature3": "Surface Preparation Expertise",
-                "feature4": "Quick Turnaround Times",
-                "feature5": "Advanced Application Techniques"
-            },
-            "benefits": {
-                "benefit1": "Enjoy superior durability and resistance to corrosion, weather, and wear.",
-                "benefit2": "Achieve the desired look with a variety of color options, textures, and finishes, including matte, gloss, and metallic.",
-                "benefit3": "Benefit from thorough surface cleaning, priming, and treatment to ensure long-lasting adhesion.",
-                "benefit4": "Meet tight deadlines without compromising on quality.",
-                "benefit5": "Ensure even coverage and flawless finishes using precision tools and methods like spray painting."
-            },
-            "usecases": {
-                "usecase1": "Construction Projects: Paint metal structures, railings, and panels to match architectural designs and provide weather resistance.",
-                "usecase2": "Public Infrastructure: Paint street signs, guardrails, and public structures to increase visibility and durability.",
-                "usecase3": "Marine Applications: Apply anti-corrosion and weather-resistant coatings to ships, docks, and marine equipment."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Do you provide surface preparation before painting?"
-                },
-                "answers": {
-                    "answer1": "Absolutely. We ensure thorough surface cleaning, priming, and treatment for optimal paint adhesion and longevity."
-                }
-            }
+            "title": "Painting Treatment",
+  "description": "Surface painting treatment",
+  "tagline": "Enhance durability and aesthetics with precision painting treatments.",
+  "overview": "Our Painting Treatment service specializes in the application of high-quality paint finishes on metals and other surfaces. Using advanced techniques and top-quality materials, we ensure lasting protection and an attractive aesthetic for industrial, commercial, and decorative applications.",
+  "features": {
+    "feature1": "High-quality paints and coatings",
+    "feature2": "Customizable colors and finishes",
+    "feature3": "Surface preparation expertise",
+    "feature4": "Fast turnaround times",
+    "feature5": "Advanced application techniques"
+  },
+  "benefits": {
+    "benefit1": "Enjoy superior durability and resistance to corrosion, weather, and wear.",
+    "benefit2": "Achieve the desired look with a variety of color, texture, and finish options, including matte, glossy, and metallic.",
+    "benefit3": "Benefit from thorough cleaning, priming, and treatment of surfaces to ensure durable adhesion.",
+    "benefit4": "Meet tight deadlines without compromising on quality.",
+    "benefit5": "Ensure uniform coverage and flawless finishes using precision tools and methods such as spray painting."
+  },
+  "usecases": {
+    "usecase1": "Automotive Industry: Apply durable and aesthetic paints to automotive parts such as bodies, chassis, and accessories.",
+    "usecase2": "Industrial Equipment: Coatings to protect machinery, tanks, and pipes from corrosion and wear in harsh environments.",
+    "usecase3": "Interior Design and Furniture: Decorative painting on metal furniture, frames, and decor elements for an elegant and customized finish.",
+    "usecase4": "Aerospace: Apply specialized coatings on aircraft components to reduce friction and protect against external elements.",
+    "usecase5": "Renewable Energy: Paint treatment for components of wind turbines, solar panels, and other energy equipment to enhance durability against the elements."
+  },
+  "faq": {
+    "questions": {
+      "question1": "Do you provide surface preparation before painting?"
+    },
+    "answers": {
+      "answer1": "Absolutely. We ensure thorough surface cleaning, priming, and treatment for optimal paint adhesion and long-lasting durability."
+    }
+  }
         }
     }
 }

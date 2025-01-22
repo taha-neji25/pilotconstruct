@@ -1,6 +1,6 @@
 {
     "menu": {
-        "brand": "pilot construct",
+        "brand": "Pilot Constract",
         "about": "à propos",
         "contact": "contact",
         "products": "produits",
@@ -13,7 +13,7 @@
     },
     "hero": {
         "welcome": "Bienvenue à",
-        "title": "Pilot Construct",
+        "title": "Pilot Constract",
         "description": "Construisons l'avenir avec précision et innovation",
         "button": "Découvrez nos produits et services"
     },
@@ -48,7 +48,7 @@
     },
     "about": {
         "title": {
-            "title": "À propos de Pilot Construct",
+            "title": "À propos de Pilot Constract",
             "overview": "Aperçu de l'entreprise",
             "mission": "Mission et vision",
             "history": "Histoire",
@@ -59,12 +59,12 @@
             "action": "Appel à l'action",
             "addition": "Ajouts spécifiques aux services d'ingénierie"
         },
-        "overview": "Pilot Construct offre des solutions de haute qualité en construction métallique, construction mécanique et finition de surface. Nous nous concentrons sur les services d'ingénierie avec une portée mondiale.",
+        "overview": "Pilot Constract offre des solutions de haute qualité en construction métallique, construction mécanique et finition de surface. Nous nous concentrons sur les services d'ingénierie avec une portée mondiale.",
         "missions": "Mission :",
         "mission": "Fournir des solutions d'ingénierie innovantes qui garantissent la plus haute qualité et la satisfaction du client.",
         "visions": "Vision :",
         "vision": "Être un leader mondial des services d'ingénierie, reconnu pour notre engagement envers l'excellence et l'innovation.",
-        "history": "Fondée en 2025, Pilot Construct a commencé avec une vision de révolutionner l'industrie de l'ingénierie.",
+        "history": "Fondée en 2025, Pilot Constract a commencé avec une vision de révolutionner l'industrie de l'ingénierie.",
         "values": "Innovation, intégrité, orientation client.",
         "strengths": "Expertise en ingénierie mécanique et construction. Technologies et méthodologies uniques.",
         "efforts": "Mise en avant de nos initiatives environnementales et communautaires.",
@@ -169,31 +169,31 @@
         },
         "product3": {
             "title": "Structure Métallique",
-    "description": "Fabrication de structures métalliques",
-    "tagline": "Maintenir vos opérations en toute fluidité.",
-    "overview": "Nos services de maintenance industrielle garantissent que vos équipements restent opérationnels, minimisant les temps d'arrêt et maximisant l'efficacité.",
-    "features": {
-        "feature1": "Programmes de maintenance proactive",
-        "feature2": "Support d'urgence 24/7"
+  "description": "Fabrication de structures métalliques",
+  "tagline": "Des solutions métalliques pour vos projets.",
+  "overview": "Nous concevons et fabriquons des structures métalliques adaptées à vos besoins, combinant durabilité, esthétique et performance.",
+  "features": {
+    "feature1": "Conception personnalisée et fabrication sur mesure",
+    "feature2": "Matériaux de haute qualité pour une durabilité optimale"
+  },
+  "benefits": {
+    "benefit1": "Solutions adaptées à vos besoins spécifiques.",
+    "benefit2": "Des structures fiables, durables et esthétiques."
+  },
+  "usecases": {
+    "usecase1": "Bâtiments industriels : Des structures métalliques robustes pour des entrepôts, usines et autres bâtiments industriels nécessitant durabilité et performance.",
+    "usecase2": "Ponts et passerelles : Conception et fabrication de passerelles et ponts métalliques, adaptés aux charges lourdes et aux environnements variés.",
+    "usecase3": "Structures événementielles : Solutions métalliques pour des stands, pavillons ou scènes temporaires, alliant esthétique et solidité.",
+    "usecase4": "Architecture urbaine : Structures pour des projets architecturaux tels que des sculptures, abris ou éléments décoratifs urbains."
+  },
+  "faq": {
+    "questions": {
+      "question1": "Quels types de structures métalliques proposez-vous ?"
     },
-    "benefits": {
-        "benefit1": "Évitez les pannes imprévues et les réparations coûteuses.",
-        "benefit2": "Obtenez de l'aide quand vous en avez le plus besoin."
-    },
-    "usecases": {
-        "usecase1": "Bâtiments de bureaux : La construction modulaire est idéale pour créer des espaces de bureau temporaires ou permanents rapidement et efficacement. Les entreprises peuvent adapter la taille de leurs bureaux à la croissance de leur personnel.",
-        "usecase2": "Écoles et salles de classe : Les salles de classe modulaires offrent une solution rapide pour accueillir une population étudiante croissante ou des espaces d'apprentissage temporaires pendant des rénovations.",
-        "usecase3": "Espaces de vente : Créez des boutiques éphémères modulaires, des kiosques ou des unités de vente autonomes pour des solutions commerciales flexibles et rentables.",
-        "usecase4": "Structures événementielles : Utilisez des unités modulaires pour des espaces événementiels, des stands d'exposition ou des pavillons temporaires, offrant une solution de haute qualité et réutilisable."
-    },
-    "faq": {
-        "questions": {
-            "question1": "Proposez-vous un support sur site ?"
-        },
-        "answers": {
-            "answer1": "Oui, nos techniciens peuvent se déplacer sur votre site."
-        }
+    "answers": {
+      "answer1": "Nous offrons une large gamme de structures métalliques, allant des bâtiments industriels aux structures décoratives urbaines."
     }
+  }
 },
         "product4": {
             "title": "Maintenance",
@@ -266,65 +266,68 @@
             }
         },
         "product6": {
-            "title": "Construction et fabrication en série",
-            "description": "Construction et production à grande échelle",
-            "tagline": "Fabrication en grande série avec précision et efficacité.",
-            "overview": "Notre service de construction et fabrication en série offre des solutions évolutives et efficaces pour produire des composants et structures standardisés en grande quantité. Avec un accent sur la qualité, nous répondons aux besoins des industries nécessitant des processus de fabrication répétitifs, cohérents et rentables.",
-            "features": {
-                "feature1": "Production en grande quantité",
-                "feature2": "Solutions économiques",
-                "feature3": "Polyvalence des matériaux"
-            },
-            "benefits": {
-                "benefit1": "Fabriquez rapidement de grandes quantités de composants pour respecter des délais serrés et les exigences de projets à grande échelle.",
-                "benefit2": "Bénéficiez des économies d'échelle pour réduire les coûts de production globaux sans compromettre la qualité.",
-                "benefit3": "Travaillez avec une large gamme de matériaux, notamment l'acier, l'aluminium et les matériaux composites, pour diverses applications."
-            },
-            "usecases": {
-                "usecase1": "Fabrication industrielle : Produisez en masse des pièces et composants pour des machines, outils et équipements avec une qualité constante.",
-                "usecase2": "Projets de construction : Créez des composants de construction préfabriqués comme des poutres, panneaux et cadres pour des projets de grande envergure."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Puis-je demander des personnalisations pour des commandes à grande échelle ?"
-                },
-                "answers": {
-                    "answer1": "Absolument. Bien que nous soyons spécialisés dans la production standardisée, nous pouvons adapter les conceptions pour répondre aux exigences spécifiques des projets."
-                }
-            }
+            "title": "Construction et Fabrication",
+  "description": "Solutions complètes pour la construction et la production à grande échelle.",
+  "tagline": "Précision, efficacité et qualité à grande échelle.",
+  "overview": "Nous offrons des solutions complètes pour la construction et la fabrication en série, adaptées aux besoins des industries modernes. Grâce à des technologies avancées et une expertise approfondie, nous produisons des composants et structures standardisés en grandes quantités tout en maintenant des normes de qualité élevées. Nos services couvrent un large éventail de secteurs, allant de l'industrie manufacturière à la construction, en passant par les projets d'infrastructure.",
+  "features": {
+    "feature1": "Capacité de production à grande échelle pour des projets industriels complexes.",
+    "feature2": "Technologies modernes pour une précision et une efficacité accrues.",
+    "feature3": "Utilisation de matériaux variés, y compris l'acier, l'aluminium et les composites."
+  },
+  "benefits": {
+    "benefit1": "Optimisez vos projets grâce à notre expertise en fabrication de masse et à notre rapidité d'exécution.",
+    "benefit2": "Réduisez les coûts grâce à des processus de production rationalisés et des économies d'échelle.",
+    "benefit3": "Adaptez les matériaux et les conceptions à une variété d'applications industrielles et architecturales."
+  },
+  "usecases": {
+    "usecase1": "Industrie manufacturière : Production de pièces en série pour les machines, outils et équipements, avec des tolérances précises.",
+    "usecase2": "Construction : Fabrication de structures modulaires préfabriquées, telles que des cadres, poutres et panneaux pour les projets résidentiels et commerciaux.",
+    "usecase3": "Infrastructure : Création de composants métalliques pour ponts, passerelles et autres structures durables."
+  },
+  "faq": {
+    "questions": {
+      "question1": "Proposez-vous des solutions sur mesure pour des projets spécifiques ?"
+    },
+    "answers": {
+      "answer1": "Oui, nous travaillons en étroite collaboration avec nos clients pour adapter nos produits à leurs besoins spécifiques tout en maintenant une production efficace."
+    }
+  }
         },
         "product7": {
             "title": "Traitement de Peinture",
-            "description": "Traitement de peinture des surfaces",
-            "tagline": "Améliorer la durabilité et l'esthétique avec des traitements de peinture de précision.",
-            "overview": "Notre service de Traitement de Peinture est spécialisé dans l'application de finitions de peinture de haute qualité sur les métaux et autres surfaces. Avec des techniques avancées et des matériaux de première qualité, nous assurons une protection durable et une esthétique attrayante pour des applications industrielles, commerciales et décoratives.",
-            "features": {
-                "feature1": "Peintures et revêtements de haute qualité",
-                "feature2": "Couleurs et finitions personnalisables",
-                "feature3": "Expertise en préparation de surface",
-                "feature4": "Délais d'exécution rapides",
-                "feature5": "Techniques d'application avancées"
-            },
-            "benefits": {
-                "benefit1": "Bénéficiez d'une durabilité supérieure et d'une résistance à la corrosion, aux intempéries et à l'usure.",
-                "benefit2": "Obtenez le look désiré avec une variété d'options de couleurs, textures et finitions, y compris mat, brillant et métallique.",
-                "benefit3": "Bénéficiez d'un nettoyage, d'une amorce et d'un traitement minutieux de la surface pour assurer une adhérence durable.",
-                "benefit4": "Respectez des délais serrés sans compromettre la qualité.",
-                "benefit5": "Assurez une couverture uniforme et des finitions impeccables grâce à des outils de précision et des méthodes telles que la peinture au pistolet."
-            },
-            "usecases": {
-                "usecase1": "Projets de construction : Peindre des structures métalliques, des rampes et des panneaux pour correspondre aux conceptions architecturales et offrir une résistance aux intempéries.",
-                "usecase2": "Infrastructure publique : Peindre des panneaux de signalisation, des glissières de sécurité et des structures publiques pour augmenter la visibilité et la durabilité.",
-                "usecase3": "Applications marines : Appliquer des revêtements anti-corrosion et résistants aux intempéries sur les navires, les quais et les équipements marins."
-            },
-            "faq": {
-                "questions": {
-                    "question1": "Fournissez-vous une préparation de surface avant de peindre ?"
-                },
-                "answers": {
-                    "answer1": "Absolument. Nous assurons un nettoyage minutieux de la surface, une amorce et un traitement pour une adhérence optimale de la peinture et une longue durée de vie."
-                }
-            }
+  "description": "Traitement de peinture des surfaces",
+  "tagline": "Améliorer la durabilité et l'esthétique avec des traitements de peinture de précision.",
+  "overview": "Notre service de Traitement de Peinture est spécialisé dans l'application de finitions de peinture de haute qualité sur les métaux et autres surfaces. Avec des techniques avancées et des matériaux de première qualité, nous assurons une protection durable et une esthétique attrayante pour des applications industrielles, commerciales et décoratives.",
+  "features": {
+    "feature1": "Peintures et revêtements de haute qualité",
+    "feature2": "Couleurs et finitions personnalisables",
+    "feature3": "Expertise en préparation de surface",
+    "feature4": "Délais d'exécution rapides",
+    "feature5": "Techniques d'application avancées"
+  },
+  "benefits": {
+    "benefit1": "Bénéficiez d'une durabilité supérieure et d'une résistance à la corrosion, aux intempéries et à l'usure.",
+    "benefit2": "Obtenez le look désiré avec une variété d'options de couleurs, textures et finitions, y compris mat, brillant et métallique.",
+    "benefit3": "Bénéficiez d'un nettoyage, d'une amorce et d'un traitement minutieux de la surface pour assurer une adhérence durable.",
+    "benefit4": "Respectez des délais serrés sans compromettre la qualité.",
+    "benefit5": "Assurez une couverture uniforme et des finitions impeccables grâce à des outils de précision et des méthodes telles que la peinture au pistolet."
+  },
+  "usecases": {
+    "usecase1": "Industrie automobile : Application de peintures résistantes et esthétiques sur les pièces automobiles, telles que les carrosseries, châssis et accessoires.",
+    "usecase2": "Équipements industriels : Revêtements pour protéger les machines, réservoirs et conduites contre la corrosion et l'usure dans des environnements difficiles.",
+    "usecase3": "Design intérieur et mobilier : Peinture décorative sur des meubles métalliques, des cadres et des éléments de décoration pour une finition élégante et personnalisée.",
+    "usecase4": "Aéronautique : Application de revêtements spécialisés sur les composants des avions pour réduire la friction et protéger contre les éléments extérieurs.",
+    "usecase5": "Énergie renouvelable : Traitement de peinture pour les composants des éoliennes, panneaux solaires et autres équipements énergétiques pour augmenter leur durabilité face aux intempéries."
+  },
+  "faq": {
+    "questions": {
+      "question1": "Fournissez-vous une préparation de surface avant de peindre ?"
+    },
+    "answers": {
+      "answer1": "Absolument. Nous assurons un nettoyage minutieux de la surface, une amorce et un traitement pour une adhérence optimale de la peinture et une longue durée de vie."
+    }
+  }
         }
     }
 }
