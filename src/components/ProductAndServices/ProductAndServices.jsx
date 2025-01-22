@@ -29,10 +29,10 @@ const ProductAndServices = () => {
       <h2>{t("prodserv.title")}</h2>
       <div className="products-and-services-grid">
         {productAndServices.map((productAndService, index) => (
-          <a key={index} href={`/products`} className="product-service-card">
+          <div key={index}  className="product-service-card">
             <h4>{productAndService.name}</h4>
             <p>{productAndService.description}</p>
-          </a>
+          </div>
         ))}
       </div>
     </section>
