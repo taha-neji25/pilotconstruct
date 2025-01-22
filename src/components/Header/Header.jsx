@@ -20,11 +20,15 @@ const Header = () => {
       <Container>
         {/* Branding */}
         <Navbar.Brand as={Link} to="/" className="custom-brand">
-          <img src={logo} alt="Neji Group Logo" className="logo bigger-logo" /> {t("menu.brand")}
+          <img src={logo} alt="Neji Group Logo" className="logo bigger-logo" />{" "}
+          {t("menu.brand")}
         </Navbar.Brand>
 
         {/* Toggle button for small screens */}
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" className="custom-toggle" />
+        <Navbar.Toggle
+          aria-controls="responsive-navbar-nav"
+          className="custom-toggle"
+        />
 
         {/* Navigation links */}
         <Navbar.Collapse id="responsive-navbar-nav">
@@ -42,7 +46,7 @@ const Header = () => {
 
           {/* Language Dropdown */}
           <Nav>
-            <NavDropdown 
+            <NavDropdown
               title={t("menu.language.language")}
               id="language-dropdown"
               className="custom-nav-link"

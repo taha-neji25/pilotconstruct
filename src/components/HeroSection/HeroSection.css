@@ -1,7 +1,7 @@
 .hero {
   text-align: center;
   padding: 200px 50px; /* Adjusted padding for better spacing */
-  background: url('../../assets/structure.jpg') no-repeat center center/cover;
+  background: url("../../assets/structure.jpg") no-repeat center center/cover;
   background-attachment: fixed;
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.5);
   color: white;
@@ -10,23 +10,41 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 5vh;
 }
 
 .cta-btn {
   margin-top: 40px;
   padding: 10px 20px;
-  background-color: #49A9D9;
+  background-color: #49a9d9;
   color: white;
   text-decoration: none;
   font-size: 1rem;
-  border-radius: 5px;
+  border-radius: 50px;
   white-space: nowrap;
   transition: background-color 0.3s ease;
 }
 
 .cta-btn:hover {
-  background-color: #0056b3;
+  background-color: #0156b3;
 }
-.titl {
+
+.title-welcome,
+.welcome-paragraph {
+  font-family: "Arial", sans-serif;
+}
+
+.welcome-paragraph {
+  color: #d6d6d6;
+  font-size: 1em;
+}
+
+.title-welcome {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+/*.titl {
   margin-bottom: 250px;
 }
+  */

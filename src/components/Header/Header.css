@@ -1,12 +1,22 @@
 .custom-navbar {
   background-color: #343a40; /* Changed background color */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 1em;
+  position: relative;
 }
 
 .custom-brand {
   font-size: 1.5rem;
   font-weight: bold;
   color: #ffffff; /* Changed text color */
+}
+
+.custom-brand:hover {
+  color: #d6d6d6;
+}
+
+.custom-brand:focus {
+  color: #ffffff;
 }
 
 .logo {
@@ -20,6 +30,10 @@
   margin-right: 15px;
 }
 
+.nav-link {
+  color: #ffffff;
+}
+
 .language-option {
   text-transform: capitalize;
 }
@@ -27,6 +41,11 @@
 .custom-toggle {
   border: none;
   color: #ffffff; /* Changed toggle button color */
+}
+
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
 }
 
 .bigger-logo {
