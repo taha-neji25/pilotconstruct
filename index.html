@@ -9,5 +9,13 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+      // Handle the redirect
+      if (sessionStorage.redirect) {
+        const redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        window.history.replaceState(null, null, redirect);
+      }
+    </script>
   </body>
 </html>
