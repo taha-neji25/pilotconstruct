@@ -6,7 +6,7 @@ import Products from "../pages/Products";
 import About from "../pages/About";
 import Contact from "../pages/Contact";
 import ProductDetail from "../components/Products/ProductDetail";
-//import NotFound from "../pages/NotFound";
+import NotFound from "../pages/NotFound";
 
 function AppRoutes() {
   return (
@@ -17,7 +17,7 @@ function AppRoutes() {
       <Route path="/contact" element={<Contact />} />
       {/* Dynamic route for individual product pages */}
       <Route path="/products/:productName" element={<ProductDetail />} />
-      {/*<Route path="*" element={<NotFound />} />*/} 
+      <Route path="*" element={<NotFound />} /> 
     </Routes>
   );
 }
