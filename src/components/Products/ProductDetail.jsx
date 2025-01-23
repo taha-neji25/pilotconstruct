@@ -7,29 +7,27 @@ import { useTranslation } from "react-i18next";
 
 const ProductDetail = () => {
   const { t } = useTranslation();
-  const { productName } = useParams();
-  const navigate = useNavigate();
-  const [isLoading, setIsLoading] = React.useState(true); // Add loading state
+  const { productName } = useParams(); // Get the product name from the URL
+  const navigate = useNavigate(); // Add useNavigate for programmatic navigation
 
+  // Find the product data
   const product = products.find(
     (p) => p.name.toLowerCase().replace(/ /g, "-") === productName
   );
 
+  // Handle page refresh or invalid product
   useEffect(() => {
     if (!product) {
+      // Redirect to the products page if the product is not found
       navigate("/products");
-    } else {
-      setIsLoading(false); // Set loading to false when the product is found
     }
   }, [product, navigate]);
 
+  // If the product is not found, return null (the useEffect will handle the redirect)
   if (!product) {
     return null;
   }
 
-  if (isLoading) {
-    return <div>Loading...</div>; // Display a loading message
-  }
   return (
     <div className="product-page">
       <section
