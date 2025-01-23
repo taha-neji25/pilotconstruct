@@ -30,7 +30,7 @@ const ProductAndServices = () => {
       <h2>{t("prodserv.title")}</h2>
       <div  className="products-and-services-grid">
         {productAndServices.map((productAndService, index) => (
-          <Link to={`/products`} key={index} className="product-service-card">
+          <Link to={`/products`} key={index}>
           <div key={index}  className="product-service-card">
             <h4>{productAndService.name}</h4>
             <p>{productAndService.description}</p>
