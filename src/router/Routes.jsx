@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
-import React from "react";
-import { Route, Routes } from "react-router-dom";
+import React, { useEffect } from 'react';
+import { useNavigate, Routes, Route } from 'react-router-dom';
 import Home from "../pages/Home";
 import Products from "../pages/Products";
 import About from "../pages/About";
@@ -9,6 +9,29 @@ import ProductDetail from "../components/Products/ProductDetail";
 import NotFound from "../pages/NotFound";
 
 function AppRoutes() {
+
+  const navigate = useNavigate();
+
+  function extractFullPath(url) {
+    // Remove the domain and any leading/trailing slashes
+    // eslint-disable-next-line no-useless-escape
+    const path = url.replace(/^https?:\/\/[^\/]+/, '').replace(/^\/|\/$/g, '');
+    return path;
+  }
+
+  useEffect(() => {
+    const currentPath = extractFullPath(window.location.href);
+
+    // Define valid routes
+    const validRoutes = ['', 'about', 'products', 'contact', 'products/dao', 'products/menuiserie-metallique', 'products/construction-modulaire', 'products/structure-metallique', 'products/maintenance', 'products/construction-fabrication-serie', 'products/traitement-de-peinture']; // Add all valid routes here
+
+    // Check if the current path is valid
+    if (!validRoutes.includes(currentPath)) {
+      // Redirect to a 404 page or home page
+      navigate('/not-found'); // Or navigate('/') to redirect to home
+    }
+  }, [navigate]);
+
   return (
     <Routes>
       <Route path="/" element={<Home />} />
