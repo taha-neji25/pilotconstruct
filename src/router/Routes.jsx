@@ -1,5 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
+import NotFound from "../pages/NotFound";
 import { Route, Routes } from "react-router-dom";
 import Home from "../pages/Home";
 import Products from "../pages/Products";
@@ -16,6 +17,7 @@ function AppRoutes() {
       <Route path="/contact" element={<Contact />} />
       {/* Dynamic route for individual product pages */}
       <Route path="/products/:productName" element={<ProductDetail />} />
+      <Route path="*" element={<NotFound />} /> 
     </Routes>
   );
 }
