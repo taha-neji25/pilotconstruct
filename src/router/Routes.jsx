@@ -20,15 +20,16 @@ function AppRoutes() {
   }
 
   useEffect(() => {
+    let count = 0;
     const currentPath = extractFullPath(window.location.href);
 
     // Define valid routes
     const validRoutes = ['', 'about', 'products', 'contact', 'products/dao', 'products/menuiserie-metallique', 'products/construction-modulaire', 'products/structure-metallique', 'products/maintenance', 'products/construction-fabrication-serie', 'products/traitement-de-peinture']; // Add all valid routes here
-
     // Check if the current path is valid
-    if (!validRoutes.includes(currentPath)) {
+    if (!validRoutes.includes(currentPath) && count < 10) {
+      count++;
       // Redirect to a 404 page or home page
-      navigate('/not-found'); // Or navigate('/') to redirect to home
+      navigate(`${currentPath}`); // Or navigate('/') to redirect to home
     }
   }, [navigate]);
 
